@@ -1,0 +1,76 @@
+# DTC Data Engineering Zoomcamp Capstone Project - Erik Huß
+
+Capstone Project for the DTC DE Zoomcamp, work is done around a radioactive waste dataset.
+Includes Postgres and Docker to previsualize the data, Luigi pipelines and Terraform to format and upload the data.
+
+----
+
+# Installation
+Create a virtual enviorment, install requirements from the README folder
+
+#### IF RAN AUTOMATICLY ####
+
+- Be sure to change your paramenters (docker-compose, pipeline, credentials & terraform) 
+
+# Register Server
+
+Project Server
+pgdatabase
+5432
+postgres
+root
+root
+
+# Terraform
+
+Create your own Google Cloud Project
+
+# BigQuery
+
+Needs to create a table in BigQuery before running the pipeline
+Needs to be named "DTCP_dataset"
+
+- BIG QUERY MIGHT GIVE YOU SOME ISSUES, SPECIALLY WHILE TRYING TO CREATE THE TABLE, MIGHT HAVE TO RUN A COUPLE TIMES THE CreateRadioactiveWasteTable TASK FROM THE ETL2 FILE 
+
+# Run Pipeline
+
+Just run pipeline.py
+Might not work the first time or timeout trying to connect to postgres, double check that its running properly
+
+
+#### IF RAN MANUALLY ####
+
+- Be sure to change your paramenters (docker-compose, pipeline, credentials & terraform) 
+
+# Docker
+From the Pipeline folder 
+Run docker-compose Up 
+or
+docker-compose -f docker-compose.yaml up -d --build
+if the previous wont work
+
+# Register Server
+
+Project Server
+pgdatabase
+5432
+postgres
+root
+root
+
+# Terraform
+
+Create your own Google Cloud Project
+
+# BigQuery
+
+Needs to create a table in BigQuery before running the pipeline
+Needs to be named "DTCP_dataset"
+
+- BIG QUERY MIGHT GIVE YOU SOME ISSUES, SPECIALLY WHILE TRYING TO CREATE THE TABLE, MIGHT HAVE TO RUN A COUPLE TIMES THE CreateRadioactiveWasteTable TASK FROM THE ETL2 FILE 
+
+# Ingest Data & Pipeline
+Run:
+- ingestdata.py 
+- etl_1.py
+- etl_2.py

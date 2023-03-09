@@ -1,0 +1,2521 @@
+106Rh is present in Manche in Radionuclide_6
+ 106Ru is present in Manche in Radionuclide_2
+ 106Ru is present in Vaucluse in Radionuclide_2
+ 106Ru is present in Vaucluse in Radionuclide_2
+ 106Ru is present in Manche in Radionuclide_3
+ 108mAg is present in Hauts-de-Seine in Radionuclide_6
+ 108mAg is present in Loiret in Radionuclide_6
+ 108mAg is present in Manche in Radionuclide_6
+ 109Cd is present in Essonne in Radionuclide_3
+ 109Cd is present in Gironde in Radionuclide_3
+ 109Cd is present in Hauts-de-Seine in Radionuclide_3
+ 109Cd is present in Hauts-de-Seine in Radionuclide_3
+ 109Cd is present in La Réunion in Radionuclide_3
+ 109Cd is present in Paris in Radionuclide_3
+ 109Cd is present in Pas-de-Calais in Radionuclide_3
+ 109Cd is present in Rhône in Radionuclide_3
+ 109Cd is present in Essonne in Radionuclide_4
+ 109Cd is present in La Réunion in Radionuclide_4
+ 109Cd is present in Essonne in Radionuclide_5
+ 110mAg is present in Aude in Radionuclide_2
+ 110mAg is present in Ille-et-Vilaine in Radionuclide_2
+ 110mAg is present in Vaucluse in Radionuclide_2
+ 110mAg is present in Essonne in Radionuclide_3
+ 110mAg is present in Vaucluse in Radionuclide_3
+ 110mAg is present in Vaucluse in Radionuclide_3
+ 110mAg is present in Vaucluse in Radionuclide_3
+ 110mAg is present in Vaucluse in Radionuclide_3
+ 110mAg is present in Ain in Radionuclide_4
+ 110mAg is present in Ardennes in Radionuclide_4
+ 110mAg is present in Ardèche in Radionuclide_4
+ 110mAg is present in Aube in Radionuclide_4
+ 110mAg is present in Bouches-du-Rhône in Radionuclide_4
+ 110mAg is present in Cher in Radionuclide_4
+ 110mAg is present in Drôme in Radionuclide_4
+ 110mAg is present in Gard in Radionuclide_4
+ 110mAg is present in Gironde in Radionuclide_4
+ 110mAg is present in Haut-Rhin in Radionuclide_4
+ 110mAg is present in Indre-et-Loire in Radionuclide_4
+ 110mAg is present in Isère in Radionuclide_4
+ 110mAg is present in Loir-et-Cher in Radionuclide_4
+ 110mAg is present in Loiret in Radionuclide_4
+ 110mAg is present in Manche in Radionuclide_4
+ 110mAg is present in Moselle in Radionuclide_4
+ 110mAg is present in Nord in Radionuclide_4
+ 110mAg is present in Seine-Maritime in Radionuclide_4
+ 110mAg is present in Tarn-et-Garonne in Radionuclide_4
+ 110mAg is present in Vaucluse in Radionuclide_4
+ 110mAg is present in Vienne in Radionuclide_4
+ 110mAg is present in Gard in Radionuclide_5
+ 110mAg is present in Manche in Radionuclide_5
+ 110mAg is present in Vaucluse in Radionuclide_5
+ 122Sb is present in Paris in Radionuclide_5
+ 124Sb is present in La Réunion in Radionuclide_4
+ 124Sb is present in Paris in Radionuclide_4
+ 125I is present in Rhône in Radionuclide_6
+ 125Sb is present in Manche in Radionuclide_2
+ 125Sb is present in Manche in Radionuclide_2
+ 125Sb is present in Vaucluse in Radionuclide_2
+ 125Sb is present in Loiret in Radionuclide_3
+ 125Sb is present in Nord in Radionuclide_3
+ 125Sb is present in Vaucluse in Radionuclide_3
+ 129I is present in Vaucluse in Radionuclide_3
+ 129I is present in Vaucluse in Radionuclide_3
+ 129I is present in Manche in Radionuclide_4
+ 131I is present in Corrèze in Radionuclide_6
+ 133Ba is present in Essonne in Radionuclide_3
+ 133Ba is present in Ille-et-Vilaine in Radionuclide_3
+ 133Ba is present in Yvelines in Radionuclide_3
+ 133Ba is present in Hauts-de-Seine in Radionuclide_4
+ 133Ba is present in Val-de-Marne in Radionuclide_4
+ 133Ba is present in Bas-Rhin in Radionuclide_5
+ 133Ba is present in Calvados in Radionuclide_6
+ 134Cs is present in Corrèze in Radionuclide_4
+ 134Cs is present in Corrèze in Radionuclide_4
+ 134Cs is present in Manche in Radionuclide_4
+ 134Cs is present in Manche in Radionuclide_4
+ 134Cs is present in Manche in Radionuclide_4
+ 134Cs is present in Vaucluse in Radionuclide_4
+ 134Cs is present in Vaucluse in Radionuclide_4
+ 134Cs is present in Isère in Radionuclide_5
+ 134Cs is present in Nord in Radionuclide_5
+ 134Cs is present in Vaucluse in Radionuclide_5
+ 137Cs is present in Alpes-Maritimes in Radionuclide_2
+ 137Cs is present in Essonne in Radionuclide_2
+ 137Cs is present in Haute-Garonne in Radionuclide_2
+ 137Cs is present in Hauts-de-Seine in Radionuclide_2
+ 137Cs is present in Hauts-de-Seine in Radionuclide_2
+ 137Cs is present in Ille-et-Vilaine in Radionuclide_2
+ 137Cs is present in Manche in Radionuclide_2
+ 137Cs is present in Manche in Radionuclide_2
+ 137Cs is present in Manche in Radionuclide_2
+ 137Cs is present in Monaco? in Radionuclide_2
+ 137Cs is present in Rhône in Radionuclide_2
+ 137Cs is present in Val-de-Marne in Radionuclide_2
+ 137Cs is present in Vaucluse in Radionuclide_2
+ 137Cs is present in Yvelines in Radionuclide_2
+ 137Cs is present in Aude in Radionuclide_3
+ 137Cs is present in Corrèze in Radionuclide_3
+ 137Cs is present in Corrèze in Radionuclide_3
+ 137Cs is present in Hauts-de-Seine in Radionuclide_3
+ 137Cs is present in Hauts-de-Seine in Radionuclide_3
+ 137Cs is present in Hauts-de-Seine in Radionuclide_3
+ 137Cs is present in Ille-et-Vilaine in Radionuclide_3
+ 137Cs is present in Manche in Radionuclide_3
+ 137Cs is present in Manche in Radionuclide_3
+ 137Cs is present in Manche in Radionuclide_3
+ 137Cs is present in Manche in Radionuclide_3
+ 137Cs is present in Paris in Radionuclide_3
+ 137Cs is present in Rhône in Radionuclide_3
+ 137Cs is present in Val-de-Marne in Radionuclide_3
+ 137Cs is present in Vaucluse in Radionuclide_3
+ 137Cs is present in Vaucluse in Radionuclide_3
+ 137Cs is present in Vaucluse in Radionuclide_3
+ 137Cs is present in Vaucluse in Radionuclide_3
+ 137Cs is present in Essonne in Radionuclide_4
+ 137Cs is present in Essonne in Radionuclide_4
+ 137Cs is present in Gard in Radionuclide_4
+ 137Cs is present in Hauts-de-Seine in Radionuclide_4
+ 137Cs is present in Hauts-de-Seine in Radionuclide_4
+ 137Cs is present in Isère in Radionuclide_4
+ 137Cs is present in Loiret in Radionuclide_4
+ 137Cs is present in Manche in Radionuclide_4
+ 137Cs is present in Manche in Radionuclide_4
+ 137Cs is present in Nord in Radionuclide_4
+ 137Cs is present in Rhône in Radionuclide_4
+ 137Cs is present in Vaucluse in Radionuclide_4
+ 137Cs is present in Vaucluse in Radionuclide_4
+ 137Cs is present in Vaucluse in Radionuclide_4
+ 137Cs is present in Vaucluse in Radionuclide_4
+ 137Cs is present in Vaucluse in Radionuclide_4
+ 137Cs is present in Vaucluse in Radionuclide_4
+ 137Cs is present in Vaucluse in Radionuclide_4
+ 137Cs is present in Vaucluse in Radionuclide_4
+ 137Cs is present in Vaucluse in Radionuclide_4
+ 137Cs is present in Ain in Radionuclide_5
+ 137Cs is present in Ardennes in Radionuclide_5
+ 137Cs is present in Ardèche in Radionuclide_5
+ 137Cs is present in Aube in Radionuclide_5
+ 137Cs is present in Bouches-du-Rhône in Radionuclide_5
+ 137Cs is present in Cher in Radionuclide_5
+ 137Cs is present in Drôme in Radionuclide_5
+ 137Cs is present in Essonne in Radionuclide_5
+ 137Cs is present in Essonne in Radionuclide_5
+ 137Cs is present in Essonne in Radionuclide_5
+ 137Cs is present in Essonne in Radionuclide_5
+ 137Cs is present in Gard in Radionuclide_5
+ 137Cs is present in Gard in Radionuclide_5
+ 137Cs is present in Gironde in Radionuclide_5
+ 137Cs is present in Haut-Rhin in Radionuclide_5
+ 137Cs is present in Indre-et-Loire in Radionuclide_5
+ 137Cs is present in Indre-et-Loire in Radionuclide_5
+ 137Cs is present in Isère in Radionuclide_5
+ 137Cs is present in Loir-et-Cher in Radionuclide_5
+ 137Cs is present in Loire-Atlantique in Radionuclide_5
+ 137Cs is present in Loire-Atlantique in Radionuclide_5
+ 137Cs is present in Loiret in Radionuclide_5
+ 137Cs is present in Manche in Radionuclide_5
+ 137Cs is present in Manche in Radionuclide_5
+ 137Cs is present in Manche in Radionuclide_5
+ 137Cs is present in Moselle in Radionuclide_5
+ 137Cs is present in Nord in Radionuclide_5
+ 137Cs is present in Seine-Maritime in Radionuclide_5
+ 137Cs is present in Tarn-et-Garonne in Radionuclide_5
+ 137Cs is present in Vaucluse in Radionuclide_5
+ 137Cs is present in Vienne in Radionuclide_5
+ 137Cs is present in Gard in Radionuclide_6
+ 137Cs is present in Ille-et-Vilaine in Radionuclide_6
+ 137Cs is present in Loire-Atlantique in Radionuclide_6
+ 137Cs is present in Manche in Radionuclide_6
+ 137Cs is present in Manche in Radionuclide_6
+ 137Cs is present in Vaucluse in Radionuclide_6
+ 141Ce is present in Essonne in Radionuclide_6
+ 147Pm is present in Manche in Radionuclide_4
+ 147Pm is present in Manche in Radionuclide_5
+ 147Pm is present in Manche in Radionuclide_5
+ 147Pm is present in Manche in Radionuclide_5
+ 14C is present in Essonne in Radionuclide_2
+ 14C is present in Essonne in Radionuclide_2
+ 14C is present in Gard in Radionuclide_2
+ 14C is present in Hauts-de-Seine in Radionuclide_2
+ 14C is present in Hauts-de-Seine in Radionuclide_2
+ 14C is present in Hauts-de-Seine in Radionuclide_2
+ 14C is present in Hauts-de-Seine in Radionuclide_2
+ 14C is present in Hauts-de-Seine in Radionuclide_2
+ 14C is present in Ille-et-Vilaine in Radionuclide_2
+ 14C is present in Ille-et-Vilaine in Radionuclide_2
+ 14C is present in Ille-et-Vilaine in Radionuclide_2
+ 14C is present in Indre-et-Loire in Radionuclide_2
+ 14C is present in Isère in Radionuclide_2
+ 14C is present in Loire-Atlantique in Radionuclide_2
+ 14C is present in Loire-Atlantique in Radionuclide_2
+ 14C is present in Loire-Atlantique in Radionuclide_2
+ 14C is present in Loire-Atlantique in Radionuclide_2
+ 14C is present in Manche in Radionuclide_2
+ 14C is present in Manche in Radionuclide_2
+ 14C is present in Paris in Radionuclide_2
+ 14C is present in Rhône in Radionuclide_2
+ 14C is present in Rhône in Radionuclide_2
+ 14C is present in Rhône in Radionuclide_2
+ 14C is present in Rhône in Radionuclide_2
+ 14C is present in Rhône in Radionuclide_2
+ 14C is present in Yvelines in Radionuclide_2
+ 14C is present in Yvelines in Radionuclide_2
+ 151Sm is present in Gard in Radionuclide_6
+ 152Eu is present in Alpes-Maritimes in Radionuclide_2
+ 152Eu is present in Bas-Rhin in Radionuclide_2
+ 152Eu is present in Essonne in Radionuclide_2
+ 152Eu is present in Alpes-Maritimes in Radionuclide_3
+ 152Eu is present in Hauts-de-Seine in Radionuclide_3
+ 152Eu is present in Essonne in Radionuclide_4
+ 152Eu is present in Essonne in Radionuclide_4
+ 152Eu is present in Ille-et-Vilaine in Radionuclide_4
+ 152Eu is present in Loire-Atlantique in Radionuclide_4
+ 152Eu is present in Ain in Radionuclide_5
+ 152Eu is present in Essonne in Radionuclide_5
+ 152Eu is present in Hauts-de-Seine in Radionuclide_5
+ 152Eu is present in Bas-Rhin in Radionuclide_6
+ 152Eu is present in Essonne in Radionuclide_6
+ 152Eu is present in Loire-Atlantique in Radionuclide_6
+ 153Gd is present in Rhône in Radionuclide_5
+ 154Eu is present in Hauts-de-Seine in Radionuclide_4
+ 154Eu is present in Essonne in Radionuclide_5
+ 154Eu is present in Manche in Radionuclide_5
+ 154Eu is present in Ain in Radionuclide_6
+ 154Eu is present in Essonne in Radionuclide_6
+ 154Eu is present in Vaucluse in Radionuclide_6
+ 155Eu is present in Essonne in Radionuclide_6
+ 181W is present in Essonne in Radionuclide_6
+ 181W is present in Haut-Rhin in Radionuclide_6
+ 181W is present in La Réunion in Radionuclide_6
+ 181W is present in Paris in Radionuclide_6
+ 182Ta is present in Essonne in Radionuclide_5
+ 182Ta is present in Haut-Rhin in Radionuclide_5
+ 183Re is present in Gard in Radionuclide_6
+ 183Re is present in Gironde in Radionuclide_6
+ 183Re is present in Val-d'Oise in Radionuclide_6
+ 18F is present in Ain in Radionuclide_4
+ 198Au is present in Haut-Rhin in Radionuclide_4
+ 198Au is present in La Réunion in Radionuclide_5
+ 204Tl is present in Hauts-de-Seine in Radionuclide_6
+ 208Po is present in Haute-Vienne in Radionuclide_3
+ 209Po is present in Alpes-Maritimes in Radionuclide_3
+ 210Pb is present in Bouches-du-Rhône in Radionuclide_2
+ 210Pb is present in Essonne in Radionuclide_2
+ 210Pb is present in Finistère in Radionuclide_2
+ 210Pb is present in Haute-Vienne in Radionuclide_2
+ 210Pb is present in Paris in Radionuclide_2
+ 210Pb is present in Hauts-de-Seine in Radionuclide_3
+ 210Pb is present in Monaco? in Radionuclide_3
+ 210Pb is present in Rhône in Radionuclide_3
+ 210Pb is present in Hauts-de-Seine in Radionuclide_4
+ 210Pb is present in Hauts-de-Seine in Radionuclide_4
+ 210Pb is present in Loire-Atlantique in Radionuclide_4
+ 210Pb is present in Corrèze in Radionuclide_5
+ 210Pb is present in Hauts-de-Seine in Radionuclide_5
+ 210Pb is present in Hauts-de-Seine in Radionuclide_5
+ 210Pb is present in Loire-Atlantique in Radionuclide_5
+ 210Pb is present in Loiret in Radionuclide_5
+ 210Po is present in Finistère in Radionuclide_6
+ 210Po is present in Hauts-de-Seine in Radionuclide_6
+ 213Bi is present in Bouches-du-Rhône in Radionuclide_6
+ 226Ra is present in Aude in Radionuclide_2
+ 226Ra is present in Essonne in Radionuclide_2
+ 226Ra is present in Essonne in Radionuclide_2
+ 226Ra is present in Hauts-de-Seine in Radionuclide_2
+ 226Ra is present in Rhône in Radionuclide_2
+ 226Ra is present in Essonne in Radionuclide_3
+ 226Ra is present in Finistère in Radionuclide_3
+ 226Ra is present in Haute-Garonne in Radionuclide_3
+ 226Ra is present in Hauts-de-Seine in Radionuclide_3
+ 226Ra is present in Paris in Radionuclide_3
+ 226Ra is present in Val-de-Marne in Radionuclide_3
+ 226Ra is present in Gironde in Radionuclide_4
+ 226Ra is present in Haute-Vienne in Radionuclide_4
+ 226Ra is present in Hauts-de-Seine in Radionuclide_4
+ 226Ra is present in Rhône in Radionuclide_4
+ 226Ra is present in Yvelines in Radionuclide_4
+ 226Ra is present in Hauts-de-Seine in Radionuclide_5
+ 226Ra is present in Hauts-de-Seine in Radionuclide_5
+ 226Ra is present in Hauts-de-Seine in Radionuclide_5
+ 226Ra is present in Hauts-de-Seine in Radionuclide_5
+ 226Ra is present in Hauts-de-Seine in Radionuclide_6
+ 226Ra is present in Hauts-de-Seine in Radionuclide_6
+ 226Ra is present in Loire-Atlantique in Radionuclide_6
+ 226Ra is present in Rhône in Radionuclide_6
+ 227Ac is present in Bouches-du-Rhône in Radionuclide_4
+ 227Th is present in Aude in Radionuclide_6
+ 228Ra is present in Bouches-du-Rhône in Radionuclide_3
+ 228Th is present in Essonne in Radionuclide_3
+ 228Th is present in Essonne in Radionuclide_3
+ 228Th is present in Loiret in Radionuclide_6
+ 229Th is present in Essonne in Radionuclide_4
+ 229Th is present in Monaco? in Radionuclide_4
+ 22Na is present in Ain in Radionuclide_2
+ 22Na is present in Ain in Radionuclide_2
+ 22Na is present in Calvados in Radionuclide_2
+ 22Na is present in Calvados in Radionuclide_2
+ 22Na is present in Hauts-de-Seine in Radionuclide_2
+ 22Na is present in Loire-Atlantique in Radionuclide_2
+ 22Na is present in Loire-Atlantique in Radionuclide_2
+ 22Na is present in Hauts-de-Seine in Radionuclide_3
+ 22Na is present in Ille-et-Vilaine in Radionuclide_3
+ 22Na is present in Isère in Radionuclide_3
+ 230Th is present in Hauts-de-Seine in Radionuclide_3
+ 230Th is present in Paris in Radionuclide_4
+ 231Pa is present in Essonne in Radionuclide_2
+ 231Pa is present in Essonne in Radionuclide_4
+ 231Pa is present in Hauts-de-Seine in Radionuclide_4
+ 232Th is present in Aude in Radionuclide_3
+ 232Th is present in Bas-Rhin in Radionuclide_3
+ 232Th is present in Essonne in Radionuclide_3
+ 232Th is present in Essonne in Radionuclide_3
+ 232Th is present in Rhône in Radionuclide_3
+ 232Th is present in Yvelines in Radionuclide_3
+ 232Th is present in Alpes-Maritimes in Radionuclide_4
+ 232Th is present in Alpes-Maritimes in Radionuclide_4
+ 232Th is present in Paris in Radionuclide_4
+ 232Th is present in Rhône in Radionuclide_4
+ 232Th is present in Rhône in Radionuclide_4
+ 232Th is present in Gironde in Radionuclide_5
+ 232Th is present in Hauts-de-Seine in Radionuclide_5
+ 232Th is present in Rhône in Radionuclide_5
+ 232Th is present in Hauts-de-Seine in Radionuclide_6
+ 232U is present in Essonne in Radionuclide_4
+ 232U is present in Ille-et-Vilaine in Radionuclide_4
+ 232U is present in Essonne in Radionuclide_5
+ 232U is present in Haute-Vienne in Radionuclide_5
+ 233U is present in Essonne in Radionuclide_5
+ 233U is present in Essonne in Radionuclide_6
+ 234U is present in Rhône in Radionuclide_3
+ 234U is present in Aude in Radionuclide_4
+ 234U is present in Finistère in Radionuclide_4
+ 234U is present in Rhône in Radionuclide_4
+ 234U is present in Rhône in Radionuclide_4
+ 234U is present in Paris in Radionuclide_5
+ 234U is present in Rhône in Radionuclide_5
+ 234U is present in Vaucluse in Radionuclide_5
+ 235U is present in Bas-Rhin in Radionuclide_4
+ 235U is present in Essonne in Radionuclide_4
+ 235U is present in Rhône in Radionuclide_4
+ 235U is present in Essonne in Radionuclide_5
+ 235U is present in Finistère in Radionuclide_5
+ 235U is present in Hauts-de-Seine in Radionuclide_5
+ 235U is present in Monaco? in Radionuclide_5
+ 235U is present in Rhône in Radionuclide_5
+ 235U is present in Rhône in Radionuclide_5
+ 235U is present in Rhône in Radionuclide_5
+ 235U is present in Val-de-Marne in Radionuclide_5
+ 235U is present in Rhône in Radionuclide_6
+ 237Np is present in Aude in Radionuclide_3
+ 237Np is present in Hauts-de-Seine in Radionuclide_4
+ 237Np is present in Essonne in Radionuclide_6
+ 237Np is present in Monaco? in Radionuclide_6
+ 238Pu is present in Manche in Radionuclide_2
+ 238Pu is present in Vaucluse in Radionuclide_2
+ 238Pu is present in Gard in Radionuclide_3
+ 238Pu is present in Manche in Radionuclide_3
+ 238Pu is present in Manche in Radionuclide_3
+ 238Pu is present in Manche in Radionuclide_3
+ 238Pu is present in Vaucluse in Radionuclide_3
+ 238Pu is present in Essonne in Radionuclide_4
+ 238Pu is present in Essonne in Radionuclide_5
+ 238Pu is present in Hauts-de-Seine in Radionuclide_5
+ 238Pu is present in Essonne in Radionuclide_6
+ 238U is present in Aude in Radionuclide_2
+ 238U is present in Gard in Radionuclide_2
+ 238U is present in Aude in Radionuclide_5
+ 238U is present in Bas-Rhin in Radionuclide_5
+ 238U is present in Essonne in Radionuclide_5
+ 238U is present in Loire-Atlantique in Radionuclide_5
+ 238U is present in Paris in Radionuclide_5
+ 238U is present in Rhône in Radionuclide_5
+ 238U is present in Essonne in Radionuclide_6
+ 238U is present in Hauts-de-Seine in Radionuclide_6
+ 238U is present in Hauts-de-Seine in Radionuclide_6
+ 238U is present in Hauts-de-Seine in Radionuclide_6
+ 238U is present in Paris in Radionuclide_6
+ 238U is present in Rhône in Radionuclide_6
+ 238U is present in Rhône in Radionuclide_6
+ 238U is present in Rhône in Radionuclide_6
+ 238U is present in Val-de-Marne in Radionuclide_6
+ 239Pu is present in Manche in Radionuclide_2
+ 239Pu is present in Vaucluse in Radionuclide_2
+ 239Pu is present in Manche in Radionuclide_3
+ 239Pu is present in Vaucluse in Radionuclide_3
+ 239Pu is present in Aude in Radionuclide_4
+ 239Pu is present in Gard in Radionuclide_4
+ 239Pu is present in Manche in Radionuclide_4
+ 239Pu is present in Manche in Radionuclide_4
+ 239Pu is present in Val-de-Marne in Radionuclide_4
+ 239Pu is present in Vaucluse in Radionuclide_4
+ 239Pu is present in Alpes-Maritimes in Radionuclide_5
+ 239Pu is present in Gard in Radionuclide_5
+ 239Pu is present in Haute-Vienne in Radionuclide_6
+ 239Pu is present in Manche in Radionuclide_6
+ 240Pu is present in Manche in Radionuclide_3
+ 240Pu is present in Vaucluse in Radionuclide_3
+ 240Pu is present in Manche in Radionuclide_4
+ 240Pu is present in Manche in Radionuclide_4
+ 240Pu is present in Vaucluse in Radionuclide_4
+ 240Pu is present in Gard in Radionuclide_5
+ 240Pu is present in Manche in Radionuclide_5
+ 240Pu is present in Manche in Radionuclide_5
+ 240Pu is present in Val-de-Marne in Radionuclide_5
+ 240Pu is present in Vaucluse in Radionuclide_5
+ 241Am is present in Essonne in Radionuclide_3
+ 241Am is present in Vaucluse in Radionuclide_4
+ 241Am is present in Vaucluse in Radionuclide_4
+ 241Am is present in Alpes-Maritimes in Radionuclide_5
+ 241Am is present in Corrèze in Radionuclide_5
+ 241Am is present in Essonne in Radionuclide_5
+ 241Am is present in Manche in Radionuclide_5
+ 241Am is present in Vaucluse in Radionuclide_5
+ 241Am is present in Vaucluse in Radionuclide_5
+ 241Am is present in Vaucluse in Radionuclide_5
+ 241Am is present in Aude in Radionuclide_6
+ 241Am is present in Bas-Rhin in Radionuclide_6
+ 241Am is present in Essonne in Radionuclide_6
+ 241Am is present in Gard in Radionuclide_6
+ 241Am is present in Gard in Radionuclide_6
+ 241Am is present in Hauts-de-Seine in Radionuclide_6
+ 241Am is present in Hauts-de-Seine in Radionuclide_6
+ 241Am is present in Hauts-de-Seine in Radionuclide_6
+ 241Am is present in Hauts-de-Seine in Radionuclide_6
+ 241Am is present in Loire-Atlantique in Radionuclide_6
+ 241Am is present in Manche in Radionuclide_6
+ 241Am is present in Manche in Radionuclide_6
+ 241Am is present in Manche in Radionuclide_6
+ 241Am is present in Manche in Radionuclide_6
+ 241Am is present in Manche in Radionuclide_6
+ 241Am is present in Manche in Radionuclide_6
+ 241Am is present in Paris in Radionuclide_6
+ 241Am is present in Val-de-Marne in Radionuclide_6
+ 241Am is present in Vaucluse in Radionuclide_6
+ 241Am is present in Vaucluse in Radionuclide_6
+ 241Am is present in Vaucluse in Radionuclide_6
+ 241Pu is present in Manche in Radionuclide_4
+ 241Pu is present in Vaucluse in Radionuclide_4
+ 241Pu is present in Aude in Radionuclide_5
+ 241Pu is present in Ille-et-Vilaine in Radionuclide_5
+ 241Pu is present in Manche in Radionuclide_5
+ 241Pu is present in Manche in Radionuclide_5
+ 241Pu is present in Manche in Radionuclide_5
+ 241Pu is present in Vaucluse in Radionuclide_5
+ 241Pu is present in Ille-et-Vilaine in Radionuclide_6
+ 241Pu is present in Indre-et-Loire in Radionuclide_6
+ 241Pu is present in Manche in Radionuclide_6
+ 241Pu is present in Manche in Radionuclide_6
+ 241Pu is present in Manche in Radionuclide_6
+ 242Pu is present in Aude in Radionuclide_4
+ 242Pu is present in Ille-et-Vilaine in Radionuclide_5
+ 242Pu is present in Manche in Radionuclide_5
+ 242Pu is present in Vaucluse in Radionuclide_5
+ 243Am is present in Aude in Radionuclide_5
+ 243Am is present in Ille-et-Vilaine in Radionuclide_6
+ 244Cm is present in Vaucluse in Radionuclide_5
+ 244Cm is present in Manche in Radionuclide_6
+ 249Cf is present in Essonne in Radionuclide_4
+ 252Cf is present in Essonne in Radionuclide_6
+ 36Cl is present in Hauts-de-Seine in Radionuclide_4
+ 36Cl is present in Ille-et-Vilaine in Radionuclide_4
+ 40K is present in Hauts-de-Seine in Radionuclide_2
+ 41Ca is present in Bas-Rhin in Radionuclide_2
+ 44Ti is present in Ain in Radionuclide_3
+ 44Ti is present in Calvados in Radionuclide_3
+ 45Ca is present in Hérault in Radionuclide_4
+ 45Ca is present in Ille-et-Vilaine in Radionuclide_6
+ 46Sc is present in Hérault in Radionuclide_5
+ 51Cr is present in Ille-et-Vilaine in Radionuclide_4
+ 51Cr is present in Val-d'Oise in Radionuclide_4
+ 51Cr is present in Ain in Radionuclide_5
+ 51Cr is present in Ain in Radionuclide_5
+ 51Cr is present in Aube in Radionuclide_5
+ 51Cr is present in Essonne in Radionuclide_5
+ 51Cr is present in Gard in Radionuclide_5
+ 51Cr is present in Gironde in Radionuclide_5
+ 51Cr is present in Hauts-de-Seine in Radionuclide_5
+ 51Cr is present in Hauts-de-Seine in Radionuclide_5
+ 51Cr is present in Hauts-de-Seine in Radionuclide_5
+ 51Cr is present in La Réunion in Radionuclide_5
+ 51Cr is present in Meurthe-et-Moselle in Radionuclide_5
+ 51Cr is present in Paris in Radionuclide_5
+ 51Cr is present in Pas-de-Calais in Radionuclide_5
+ 51Cr is present in Essonne in Radionuclide_6
+ 51Cr is present in Essonne in Radionuclide_6
+ 51Cr is present in Essonne in Radionuclide_6
+ 52Mn is present in Bas-Rhin in Radionuclide_6
+ 52Mn is present in Ille-et-Vilaine in Radionuclide_6
+ 53Mn is present in Calvados in Radionuclide_3
+ 54Mn is present in Calvados in Radionuclide_2
+ 54Mn is present in Calvados in Radionuclide_2
+ 54Mn is present in Essonne in Radionuclide_2
+ 54Mn is present in Essonne in Radionuclide_2
+ 54Mn is present in Loire-Atlantique in Radionuclide_2
+ 54Mn is present in Loiret in Radionuclide_2
+ 54Mn is present in Meurthe-et-Moselle in Radionuclide_2
+ 54Mn is present in Ain in Radionuclide_3
+ 54Mn is present in Loire-Atlantique in Radionuclide_3
+ 54Mn is present in Isère in Radionuclide_4
+ 55Fe is present in Essonne in Radionuclide_2
+ 55Fe is present in Hérault in Radionuclide_2
+ 55Fe is present in Manche in Radionuclide_2
+ 55Fe is present in Vaucluse in Radionuclide_2
+ 55Fe is present in Vaucluse in Radionuclide_2
+ 55Fe is present in Bas-Rhin in Radionuclide_3
+ 55Fe is present in Calvados in Radionuclide_3
+ 55Fe is present in Gard in Radionuclide_3
+ 55Fe is present in Hauts-de-Seine in Radionuclide_3
+ 55Fe is present in Ille-et-Vilaine in Radionuclide_3
+ 55Fe is present in Indre-et-Loire in Radionuclide_3
+ 55Fe is present in Loire-Atlantique in Radionuclide_3
+ 55Fe is present in Loire-Atlantique in Radionuclide_3
+ 55Fe is present in Ain in Radionuclide_4
+ 55Fe is present in Calvados in Radionuclide_4
+ 56Co is present in Bas-Rhin in Radionuclide_4
+ 56Co is present in Essonne in Radionuclide_4
+ 56Co is present in Calvados in Radionuclide_5
+ 56Co is present in Gard in Radionuclide_5
+ 56Co is present in Ille-et-Vilaine in Radionuclide_5
+ 56Co is present in Val-d'Oise in Radionuclide_5
+ 56Co is present in Ain in Radionuclide_6
+ 56Co is present in Ain in Radionuclide_6
+ 56Co is present in Aube in Radionuclide_6
+ 56Co is present in Calvados in Radionuclide_6
+ 56Co is present in Essonne in Radionuclide_6
+ 56Co is present in Essonne in Radionuclide_6
+ 56Co is present in Gard in Radionuclide_6
+ 56Co is present in Gironde in Radionuclide_6
+ 56Co is present in Hauts-de-Seine in Radionuclide_6
+ 56Co is present in Hauts-de-Seine in Radionuclide_6
+ 56Co is present in Hauts-de-Seine in Radionuclide_6
+ 56Co is present in La Réunion in Radionuclide_6
+ 56Co is present in La Réunion in Radionuclide_6
+ 56Co is present in Meurthe-et-Moselle in Radionuclide_6
+ 56Co is present in Paris in Radionuclide_6
+ 56Co is present in Pas-de-Calais in Radionuclide_6
+ 56Co is present in Vaucluse in Radionuclide_6
+ 57Co is present in Ain in Radionuclide_2
+ 57Co is present in Bas-Rhin in Radionuclide_2
+ 57Co is present in Corrèze in Radionuclide_2
+ 57Co is present in Essonne in Radionuclide_2
+ 57Co is present in Essonne in Radionuclide_2
+ 57Co is present in Gard in Radionuclide_2
+ 57Co is present in Gard in Radionuclide_2
+ 57Co is present in Gironde in Radionuclide_2
+ 57Co is present in Hauts-de-Seine in Radionuclide_2
+ 57Co is present in Hauts-de-Seine in Radionuclide_2
+ 57Co is present in Ille-et-Vilaine in Radionuclide_2
+ 57Co is present in La Réunion in Radionuclide_2
+ 57Co is present in La Réunion in Radionuclide_2
+ 57Co is present in La Réunion in Radionuclide_2
+ 57Co is present in Paris in Radionuclide_2
+ 57Co is present in Paris in Radionuclide_2
+ 57Co is present in Val-d'Oise in Radionuclide_2
+ 57Co is present in Vaucluse in Radionuclide_2
+ 57Co is present in Ain in Radionuclide_3
+ 57Co is present in Aube in Radionuclide_3
+ 57Co is present in Calvados in Radionuclide_3
+ 57Co is present in Calvados in Radionuclide_3
+ 57Co is present in Essonne in Radionuclide_3
+ 57Co is present in Essonne in Radionuclide_3
+ 57Co is present in Hauts-de-Seine in Radionuclide_3
+ 57Co is present in Meurthe-et-Moselle in Radionuclide_3
+ 57Co is present in Calvados in Radionuclide_4
+ 57Co is present in Essonne in Radionuclide_4
+ 57Co is present in Loiret in Radionuclide_4
+ 57Co is present in Calvados in Radionuclide_5
+ 57Co is present in Ille-et-Vilaine in Radionuclide_5
+ 57Co is present in Isère in Radionuclide_5
+ 57Co is present in Loire-Atlantique in Radionuclide_5
+ 57Co is present in Loire-Atlantique in Radionuclide_5
+ 57Co is present in Calvados in Radionuclide_6
+ 58Co is present in Ain in Radionuclide_3
+ 58Co is present in Bas-Rhin in Radionuclide_3
+ 58Co is present in Haut-Rhin in Radionuclide_3
+ 58Co is present in Ille-et-Vilaine in Radionuclide_3
+ 58Co is present in La Réunion in Radionuclide_3
+ 58Co is present in Paris in Radionuclide_3
+ 58Co is present in Val-d'Oise in Radionuclide_3
+ 58Co is present in Ain in Radionuclide_4
+ 58Co is present in Aube in Radionuclide_4
+ 58Co is present in Calvados in Radionuclide_4
+ 58Co is present in Gard in Radionuclide_4
+ 58Co is present in Gard in Radionuclide_4
+ 58Co is present in Gironde in Radionuclide_4
+ 58Co is present in Hauts-de-Seine in Radionuclide_4
+ 58Co is present in Hauts-de-Seine in Radionuclide_4
+ 58Co is present in Hauts-de-Seine in Radionuclide_4
+ 58Co is present in La Réunion in Radionuclide_4
+ 58Co is present in Meurthe-et-Moselle in Radionuclide_4
+ 58Co is present in Paris in Radionuclide_4
+ 58Co is present in Pas-de-Calais in Radionuclide_4
+ 58Co is present in Calvados in Radionuclide_5
+ 58Co is present in La Réunion in Radionuclide_5
+ 58Co is present in Vaucluse in Radionuclide_5
+ 58Co is present in Ain in Radionuclide_6
+ 58Co is present in Ardennes in Radionuclide_6
+ 58Co is present in Ardèche in Radionuclide_6
+ 58Co is present in Aube in Radionuclide_6
+ 58Co is present in Aude in Radionuclide_6
+ 58Co is present in Bouches-du-Rhône in Radionuclide_6
+ 58Co is present in Cher in Radionuclide_6
+ 58Co is present in Drôme in Radionuclide_6
+ 58Co is present in Gard in Radionuclide_6
+ 58Co is present in Gironde in Radionuclide_6
+ 58Co is present in Haut-Rhin in Radionuclide_6
+ 58Co is present in Ille-et-Vilaine in Radionuclide_6
+ 58Co is present in Indre-et-Loire in Radionuclide_6
+ 58Co is present in Isère in Radionuclide_6
+ 58Co is present in Isère in Radionuclide_6
+ 58Co is present in Loir-et-Cher in Radionuclide_6
+ 58Co is present in Loiret in Radionuclide_6
+ 58Co is present in Manche in Radionuclide_6
+ 58Co is present in Moselle in Radionuclide_6
+ 58Co is present in Nord in Radionuclide_6
+ 58Co is present in Nord in Radionuclide_6
+ 58Co is present in Seine-Maritime in Radionuclide_6
+ 58Co is present in Tarn-et-Garonne in Radionuclide_6
+ 58Co is present in Vaucluse in Radionuclide_6
+ 58Co is present in Vaucluse in Radionuclide_6
+ 58Co is present in Vaucluse in Radionuclide_6
+ 58Co is present in Vaucluse in Radionuclide_6
+ 58Co is present in Vaucluse in Radionuclide_6
+ 58Co is present in Vienne in Radionuclide_6
+ 59Fe is present in Calvados in Radionuclide_6
+ 59Fe is present in Hérault in Radionuclide_6
+ 59Ni is present in Indre-et-Loire in Radionuclide_5
+ 60Co is present in Ain in Radionuclide_2
+ 60Co is present in Ain in Radionuclide_2
+ 60Co is present in Ardennes in Radionuclide_2
+ 60Co is present in Ardèche in Radionuclide_2
+ 60Co is present in Aube in Radionuclide_2
+ 60Co is present in Aube in Radionuclide_2
+ 60Co is present in Bouches-du-Rhône in Radionuclide_2
+ 60Co is present in Calvados in Radionuclide_2
+ 60Co is present in Cher in Radionuclide_2
+ 60Co is present in Drôme in Radionuclide_2
+ 60Co is present in Essonne in Radionuclide_2
+ 60Co is present in Essonne in Radionuclide_2
+ 60Co is present in Essonne in Radionuclide_2
+ 60Co is present in Gard in Radionuclide_2
+ 60Co is present in Gironde in Radionuclide_2
+ 60Co is present in Gironde in Radionuclide_2
+ 60Co is present in Haut-Rhin in Radionuclide_2
+ 60Co is present in Haut-Rhin in Radionuclide_2
+ 60Co is present in Hauts-de-Seine in Radionuclide_2
+ 60Co is present in Hauts-de-Seine in Radionuclide_2
+ 60Co is present in Indre-et-Loire in Radionuclide_2
+ 60Co is present in Indre-et-Loire in Radionuclide_2
+ 60Co is present in Isère in Radionuclide_2
+ 60Co is present in Isère in Radionuclide_2
+ 60Co is present in Loir-et-Cher in Radionuclide_2
+ 60Co is present in Loiret in Radionuclide_2
+ 60Co is present in Loiret in Radionuclide_2
+ 60Co is present in Manche in Radionuclide_2
+ 60Co is present in Manche in Radionuclide_2
+ 60Co is present in Moselle in Radionuclide_2
+ 60Co is present in Nord in Radionuclide_2
+ 60Co is present in Nord in Radionuclide_2
+ 60Co is present in Pas-de-Calais in Radionuclide_2
+ 60Co is present in Seine-Maritime in Radionuclide_2
+ 60Co is present in Tarn-et-Garonne in Radionuclide_2
+ 60Co is present in Val-de-Marne in Radionuclide_2
+ 60Co is present in Vaucluse in Radionuclide_2
+ 60Co is present in Vaucluse in Radionuclide_2
+ 60Co is present in Vaucluse in Radionuclide_2
+ 60Co is present in Vaucluse in Radionuclide_2
+ 60Co is present in Vaucluse in Radionuclide_2
+ 60Co is present in Vaucluse in Radionuclide_2
+ 60Co is present in Vienne in Radionuclide_2
+ 60Co is present in Essonne in Radionuclide_3
+ 60Co is present in Essonne in Radionuclide_3
+ 60Co is present in Essonne in Radionuclide_3
+ 60Co is present in Hauts-de-Seine in Radionuclide_3
+ 60Co is present in Hérault in Radionuclide_3
+ 60Co is present in Ille-et-Vilaine in Radionuclide_3
+ 60Co is present in Loire-Atlantique in Radionuclide_3
+ 60Co is present in Loire-Atlantique in Radionuclide_3
+ 60Co is present in Loire-Atlantique in Radionuclide_3
+ 60Co is present in Loiret in Radionuclide_3
+ 60Co is present in Manche in Radionuclide_3
+ 60Co is present in Manche in Radionuclide_3
+ 60Co is present in Manche in Radionuclide_3
+ 60Co is present in Vaucluse in Radionuclide_3
+ 60Co is present in Vaucluse in Radionuclide_3
+ 60Co is present in Ain in Radionuclide_4
+ 60Co is present in Bas-Rhin in Radionuclide_4
+ 60Co is present in Calvados in Radionuclide_4
+ 60Co is present in Gard in Radionuclide_4
+ 60Co is present in Indre-et-Loire in Radionuclide_4
+ 60Co is present in Loire-Atlantique in Radionuclide_4
+ 60Co is present in Loire-Atlantique in Radionuclide_4
+ 60Co is present in Loire-Atlantique in Radionuclide_4
+ 60Co is present in Ain in Radionuclide_5
+ 60Co is present in Calvados in Radionuclide_5
+ 63Ni is present in Essonne in Radionuclide_2
+ 63Ni is present in Essonne in Radionuclide_2
+ 63Ni is present in Gard in Radionuclide_2
+ 63Ni is present in Gard in Radionuclide_2
+ 63Ni is present in Manche in Radionuclide_2
+ 63Ni is present in Bouches-du-Rhône in Radionuclide_3
+ 63Ni is present in Essonne in Radionuclide_3
+ 63Ni is present in Gard in Radionuclide_3
+ 63Ni is present in Hauts-de-Seine in Radionuclide_3
+ 63Ni is present in Hauts-de-Seine in Radionuclide_3
+ 63Ni is present in Indre-et-Loire in Radionuclide_3
+ 63Ni is present in Loire-Atlantique in Radionuclide_3
+ 63Ni is present in Manche in Radionuclide_3
+ 63Ni is present in Rhône in Radionuclide_3
+ 63Ni is present in Rhône in Radionuclide_3
+ 63Ni is present in Vaucluse in Radionuclide_3
+ 63Ni is present in Essonne in Radionuclide_4
+ 63Ni is present in Hauts-de-Seine in Radionuclide_4
+ 63Ni is present in Ille-et-Vilaine in Radionuclide_4
+ 63Ni is present in Ille-et-Vilaine in Radionuclide_4
+ 63Ni is present in Loire-Atlantique in Radionuclide_4
+ 63Ni is present in Loire-Atlantique in Radionuclide_4
+ 63Ni is present in Manche in Radionuclide_4
+ 63Ni is present in Vaucluse in Radionuclide_4
+ 63Ni is present in Vaucluse in Radionuclide_4
+ 63Ni is present in Loire-Atlantique in Radionuclide_5
+ 63Ni is present in Ain in Radionuclide_6
+ 63Ni is present in Indre-et-Loire in Radionuclide_6
+ 63Ni is present in Loire-Atlantique in Radionuclide_6
+ 65Zn is present in Corrèze in Radionuclide_2
+ 65Zn is present in Essonne in Radionuclide_2
+ 65Zn is present in Loire-Atlantique in Radionuclide_2
+ 65Zn is present in Vaucluse in Radionuclide_2
+ 65Zn is present in Vaucluse in Radionuclide_2
+ 65Zn is present in Ain in Radionuclide_3
+ 65Zn is present in Ardennes in Radionuclide_3
+ 65Zn is present in Ardèche in Radionuclide_3
+ 65Zn is present in Aube in Radionuclide_3
+ 65Zn is present in Cher in Radionuclide_3
+ 65Zn is present in Drôme in Radionuclide_3
+ 65Zn is present in Essonne in Radionuclide_3
+ 65Zn is present in Gard in Radionuclide_3
+ 65Zn is present in Gard in Radionuclide_3
+ 65Zn is present in Gironde in Radionuclide_3
+ 65Zn is present in Haut-Rhin in Radionuclide_3
+ 65Zn is present in Indre-et-Loire in Radionuclide_3
+ 65Zn is present in Isère in Radionuclide_3
+ 65Zn is present in La Réunion in Radionuclide_3
+ 65Zn is present in Loir-et-Cher in Radionuclide_3
+ 65Zn is present in Loiret in Radionuclide_3
+ 65Zn is present in Manche in Radionuclide_3
+ 65Zn is present in Moselle in Radionuclide_3
+ 65Zn is present in Nord in Radionuclide_3
+ 65Zn is present in Seine-Maritime in Radionuclide_3
+ 65Zn is present in Tarn-et-Garonne in Radionuclide_3
+ 65Zn is present in Vaucluse in Radionuclide_3
+ 65Zn is present in Vienne in Radionuclide_3
+ 65Zn is present in Calvados in Radionuclide_4
+ 65Zn is present in Essonne in Radionuclide_4
+ 65Zn is present in Calvados in Radionuclide_5
+ 65Zn is present in Essonne in Radionuclide_5
+ 65Zn is present in Loiret in Radionuclide_5
+ 65Zn is present in Calvados in Radionuclide_6
+ 83Rb is present in Loire-Atlantique in Radionuclide_6
+ 83Rb is present in Loire-Atlantique in Radionuclide_6
+ 85Kr is present in Gironde in Radionuclide_3
+ 85Sr is present in Corrèze in Radionuclide_6
+ 88Y is present in Bas-Rhin in Radionuclide_5
+ 90Sr is present in Hauts-de-Seine in Radionuclide_2
+ 90Sr is present in Hauts-de-Seine in Radionuclide_2
+ 90Sr is present in Manche in Radionuclide_2
+ 90Sr is present in Manche in Radionuclide_2
+ 90Sr is present in Vaucluse in Radionuclide_2
+ 90Sr is present in Yvelines in Radionuclide_2
+ 90Sr is present in Essonne in Radionuclide_3
+ 90Sr is present in Essonne in Radionuclide_3
+ 90Sr is present in Essonne in Radionuclide_3
+ 90Sr is present in Gard in Radionuclide_3
+ 90Sr is present in Gard in Radionuclide_3
+ 90Sr is present in Hauts-de-Seine in Radionuclide_3
+ 90Sr is present in Manche in Radionuclide_3
+ 90Sr is present in Vaucluse in Radionuclide_3
+ 90Sr is present in Yvelines in Radionuclide_3
+ 90Sr is present in Yvelines in Radionuclide_3
+ 90Sr is present in Essonne in Radionuclide_4
+ 90Sr is present in Essonne in Radionuclide_4
+ 90Sr is present in Hauts-de-Seine in Radionuclide_4
+ 90Sr is present in Indre-et-Loire in Radionuclide_4
+ 90Sr is present in Manche in Radionuclide_4
+ 90Sr is present in Manche in Radionuclide_4
+ 90Sr is present in Ille-et-Vilaine in Radionuclide_5
+ 90Sr is present in Manche in Radionuclide_5
+ 90Sr is present in Vaucluse in Radionuclide_5
+ 90Y is present in Vaucluse in Radionuclide_6
+ 95Zr is present in Vaucluse in Radionuclide_6
+ 99Tc is present in Isère in Radionuclide_3
+ 99Tc is present in Loire-Atlantique in Radionuclide_3
+ 99Tc is present in Essonne in Radionuclide_4
+ 99Tc is present in Gard in Radionuclide_4
+ 99Tc is present in Loire-Atlantique in Radionuclide_4
+ 99Tc is present in Hauts-de-Seine in Radionuclide_5
+ 99Tc is present in Hauts-de-Seine in Radionuclide_5
+ 99Tc is present in Ille-et-Vilaine in Radionuclide_5
+ 99Tc is present in Loire-Atlantique in Radionuclide_5
+ 99mTc is present in Isère in Radionuclide_6
+ Am is present in Yvelines in Radionuclide_5
+ Am is present in Essonne in Radionuclide_6
+ Am is present in Haute-Garonne in Radionuclide_6
+ Am is present in Vaucluse in Radionuclide_6
+ Am is present in Vaucluse in Radionuclide_6
+ Am is present in Yvelines in Radionuclide_6
+ Am is present in Yvelines in Radionuclide_6
+ Po is present in Yvelines in Radionuclide_6
+ Pu is present in Yvelines in Radionuclide_4
+ Pu is present in Essonne in Radionuclide_5
+ Pu is present in Vaucluse in Radionuclide_5
+ Pu is present in Vaucluse in Radionuclide_5
+ Pu is present in Vaucluse in Radionuclide_5
+ Pu is present in Yvelines in Radionuclide_5
+ Pu is present in Vaucluse in Radionuclide_6
+ Pu is present in Vaucluse in Radionuclide_6
+ Pu is present in Vaucluse in Radionuclide_6
+ Pu is present in Vaucluse in Radionuclide_6
+ Th is present in Yvelines in Radionuclide_4
+ Th is present in Bouches-du-Rhône in Radionuclide_5
+ Th is present in Haute-Garonne in Radionuclide_5
+ Th is present in Hauts-de-Seine in Radionuclide_5
+ Th is present in Yvelines in Radionuclide_5
+ Th is present in Essonne in Radionuclide_6
+ Th is present in Essonne in Radionuclide_6
+ Th is present in Yvelines in Radionuclide_6
+ U is present in Essonne in Radionuclide_4
+ U is present in Haute-Garonne in Radionuclide_4
+ U is present in Hauts-de-Seine in Radionuclide_4
+ U is present in Yvelines in Radionuclide_4
+ U is present in Essonne in Radionuclide_5
+ U is present in Essonne in Radionuclide_5
+ U is present in Vaucluse in Radionuclide_5
+ U is present in Vaucluse in Radionuclide_5
+ U is present in Vaucluse in Radionuclide_5
+ U is present in Yvelines in Radionuclide_5
+ U is present in Alpes-Maritimes in Radionuclide_6
+ U is present in Alpes-Maritimes in Radionuclide_6
+ U is present in Loire-Atlantique in Radionuclide_6
+ U is present in Rhône in Radionuclide_6
+106Ru is present in Manche in Radionuclide_2
+106Ru is present in Vaucluse in Radionuclide_2
+106Ru is present in Vaucluse in Radionuclide_2
+106Ru is present in Manche in Radionuclide_3
+109Cd is present in Essonne in Radionuclide_3
+109Cd is present in Gironde in Radionuclide_3
+109Cd is present in Hauts-de-Seine in Radionuclide_3
+109Cd is present in Hauts-de-Seine in Radionuclide_3
+109Cd is present in La Réunion in Radionuclide_3
+109Cd is present in Paris in Radionuclide_3
+109Cd is present in Pas-de-Calais in Radionuclide_3
+109Cd is present in Rhône in Radionuclide_3
+109Cd is present in Essonne in Radionuclide_4
+109Cd is present in La Réunion in Radionuclide_4
+109Cd is present in Essonne in Radionuclide_5
+10Be is present in Essonne in Radionuclide_1
+111In is present in Bas-Rhin in Radionuclide_1
+111In is present in Bouches-du-Rhône in Radionuclide_1
+111In is present in Côte-d'Or in Radionuclide_1
+111In is present in Doubs in Radionuclide_1
+111In is present in Haute-Marne in Radionuclide_1
+111In is present in Hautes-Pyrénées in Radionuclide_1
+111In is present in Hérault in Radionuclide_1
+111In is present in Ille-et-Vilaine in Radionuclide_1
+111In is present in Loire-Atlantique in Radionuclide_1
+111In is present in Paris in Radionuclide_1
+111In is present in Paris in Radionuclide_1
+111In is present in Vienne in Radionuclide_1
+111In is present in Ardennes in Radionuclide_2
+111In is present in Aube in Radionuclide_2
+111In is present in Aude in Radionuclide_2
+111In is present in Calvados in Radionuclide_2
+111In is present in Côte-d'Or in Radionuclide_2
+111In is present in Côtes-d'Armor in Radionuclide_2
+111In is present in Drôme in Radionuclide_2
+111In is present in Essonne in Radionuclide_2
+111In is present in Haut-Rhin in Radionuclide_2
+111In is present in Haute-Garonne in Radionuclide_2
+111In is present in Haute-Loire in Radionuclide_2
+111In is present in Hauts-de-Seine in Radionuclide_2
+111In is present in Hérault in Radionuclide_2
+111In is present in Isère in Radionuclide_2
+111In is present in Loire in Radionuclide_2
+111In is present in Loire-Atlantique in Radionuclide_2
+111In is present in Loiret in Radionuclide_2
+111In is present in Lot-et-Garonne in Radionuclide_2
+111In is present in Marne in Radionuclide_2
+111In is present in Martinique in Radionuclide_2
+111In is present in Moselle in Radionuclide_2
+111In is present in Nièvre in Radionuclide_2
+111In is present in Nord in Radionuclide_2
+111In is present in Nord in Radionuclide_2
+111In is present in Paris in Radionuclide_2
+111In is present in Pas-de-Calais in Radionuclide_2
+111In is present in Pyrénées-Orientales in Radionuclide_2
+111In is present in Rhône in Radionuclide_2
+111In is present in Sarthe in Radionuclide_2
+111In is present in Savoie in Radionuclide_2
+111In is present in Saône-et-Loire in Radionuclide_2
+111In is present in Seine-Saint-Denis in Radionuclide_2
+111In is present in Somme in Radionuclide_2
+111In is present in Tarn in Radionuclide_2
+111In is present in Territoire de Belfort in Radionuclide_2
+111In is present in Val-de-Marne in Radionuclide_2
+111In is present in Val-de-Marne in Radionuclide_2
+111In is present in Val-de-Marne in Radionuclide_2
+111In is present in Var in Radionuclide_2
+111In is present in Vendée in Radionuclide_2
+111In is present in Yonne in Radionuclide_2
+111In is present in Yvelines in Radionuclide_2
+111In is present in Aisne in Radionuclide_3
+111In is present in Bas-Rhin in Radionuclide_3
+111In is present in Bouches-du-Rhône in Radionuclide_3
+111In is present in Calvados in Radionuclide_3
+111In is present in Charente-Maritime in Radionuclide_3
+111In is present in Gironde in Radionuclide_3
+111In is present in Hauts-de-Seine in Radionuclide_3
+111In is present in Hauts-de-Seine in Radionuclide_3
+111In is present in Hérault in Radionuclide_3
+111In is present in Loire in Radionuclide_3
+111In is present in Maine-et-Loire in Radionuclide_3
+111In is present in Nord in Radionuclide_3
+111In is present in Nord in Radionuclide_3
+111In is present in Pas-de-Calais in Radionuclide_3
+111In is present in Val-d'Oise in Radionuclide_3
+111In is present in Aisne in Radionuclide_4
+111In is present in Hauts-de-Seine in Radionuclide_4
+111In is present in Indre-et-Loire in Radionuclide_4
+111In is present in Somme in Radionuclide_4
+123I is present in Bas-Rhin in Radionuclide_2
+123I is present in Bouches-du-Rhône in Radionuclide_2
+123I is present in Bouches-du-Rhône in Radionuclide_2
+123I is present in Côte-d'Or in Radionuclide_2
+123I is present in Doubs in Radionuclide_2
+123I is present in Gard in Radionuclide_2
+123I is present in Gironde in Radionuclide_2
+123I is present in Haute-Marne in Radionuclide_2
+123I is present in Hautes-Pyrénées in Radionuclide_2
+123I is present in Hérault in Radionuclide_2
+123I is present in Ille-et-Vilaine in Radionuclide_2
+123I is present in Loire-Atlantique in Radionuclide_2
+123I is present in Nord in Radionuclide_2
+123I is present in Paris in Radionuclide_2
+123I is present in Paris in Radionuclide_2
+123I is present in Puy-de-Dôme in Radionuclide_2
+123I is present in Rhône in Radionuclide_2
+123I is present in Seine-Maritime in Radionuclide_2
+123I is present in Vienne in Radionuclide_2
+123I is present in Alpes-Maritimes in Radionuclide_3
+123I is present in Ardennes in Radionuclide_3
+123I is present in Aube in Radionuclide_3
+123I is present in Aude in Radionuclide_3
+123I is present in Calvados in Radionuclide_3
+123I is present in Côte-d'Or in Radionuclide_3
+123I is present in Côtes-d'Armor in Radionuclide_3
+123I is present in Drôme in Radionuclide_3
+123I is present in Essonne in Radionuclide_3
+123I is present in Finistère in Radionuclide_3
+123I is present in Haut-Rhin in Radionuclide_3
+123I is present in Haute-Garonne in Radionuclide_3
+123I is present in Haute-Loire in Radionuclide_3
+123I is present in Haute-Vienne in Radionuclide_3
+123I is present in Hauts-de-Seine in Radionuclide_3
+123I is present in Hauts-de-Seine in Radionuclide_3
+123I is present in Hérault in Radionuclide_3
+123I is present in Indre-et-Loire in Radionuclide_3
+123I is present in Loire in Radionuclide_3
+123I is present in Loire in Radionuclide_3
+123I is present in Loire-Atlantique in Radionuclide_3
+123I is present in Loiret in Radionuclide_3
+123I is present in Lot-et-Garonne in Radionuclide_3
+123I is present in Marne in Radionuclide_3
+123I is present in Monaco? in Radionuclide_3
+123I is present in Moselle in Radionuclide_3
+123I is present in Nièvre in Radionuclide_3
+123I is present in Nord in Radionuclide_3
+123I is present in Nord in Radionuclide_3
+123I is present in Nord in Radionuclide_3
+123I is present in Paris in Radionuclide_3
+123I is present in Pas-de-Calais in Radionuclide_3
+123I is present in Pas-de-Calais in Radionuclide_3
+123I is present in Pyrénées-Atlantiques in Radionuclide_3
+123I is present in Pyrénées-Orientales in Radionuclide_3
+123I is present in Rhône in Radionuclide_3
+123I is present in Sarthe in Radionuclide_3
+123I is present in Savoie in Radionuclide_3
+123I is present in Saône-et-Loire in Radionuclide_3
+123I is present in Seine-Saint-Denis in Radionuclide_3
+123I is present in Somme in Radionuclide_3
+123I is present in Tarn in Radionuclide_3
+123I is present in Territoire de Belfort in Radionuclide_3
+123I is present in Val-de-Marne in Radionuclide_3
+123I is present in Val-de-Marne in Radionuclide_3
+123I is present in Val-de-Marne in Radionuclide_3
+123I is present in Var in Radionuclide_3
+123I is present in Vendée in Radionuclide_3
+123I is present in Yonne in Radionuclide_3
+123I is present in Yvelines in Radionuclide_3
+123I is present in Aisne in Radionuclide_4
+123I is present in Bas-Rhin in Radionuclide_4
+123I is present in Bouches-du-Rhône in Radionuclide_4
+123I is present in Charente-Maritime in Radionuclide_4
+123I is present in Gironde in Radionuclide_4
+123I is present in Hauts-de-Seine in Radionuclide_4
+123I is present in Maine-et-Loire in Radionuclide_4
+123I is present in Nord in Radionuclide_4
+123I is present in Nord in Radionuclide_4
+123I is present in Pas-de-Calais in Radionuclide_4
+123I is present in Val-d'Oise in Radionuclide_4
+123I is present in Indre-et-Loire in Radionuclide_5
+125I is present in Bouches-du-Rhône in Radionuclide_3
+125I is present in Bouches-du-Rhône in Radionuclide_3
+125I is present in Doubs in Radionuclide_3
+125I is present in Gironde in Radionuclide_3
+125I is present in Haute-Garonne in Radionuclide_3
+125I is present in Hautes-Pyrénées in Radionuclide_3
+125I is present in Hérault in Radionuclide_3
+125I is present in Isère in Radionuclide_3
+125I is present in Loire-Atlantique in Radionuclide_3
+125I is present in Meurthe-et-Moselle in Radionuclide_3
+125I is present in Paris in Radionuclide_3
+125I is present in Paris in Radionuclide_3
+125I is present in Puy-de-Dôme in Radionuclide_3
+125I is present in Seine-Saint-Denis in Radionuclide_4
+125I is present in Somme in Radionuclide_4
+125I is present in Rhône in Radionuclide_6
+125Sb is present in Manche in Radionuclide_2
+125Sb is present in Manche in Radionuclide_2
+125Sb is present in Vaucluse in Radionuclide_2
+125Sb is present in Loiret in Radionuclide_3
+125Sb is present in Nord in Radionuclide_3
+125Sb is present in Vaucluse in Radionuclide_3
+129I is present in Vaucluse in Radionuclide_3
+129I is present in Vaucluse in Radionuclide_3
+129I is present in Manche in Radionuclide_4
+131I is present in Bas-Rhin in Radionuclide_3
+131I is present in Côte-d'Or in Radionuclide_3
+131I is present in Gard in Radionuclide_3
+131I is present in Gironde in Radionuclide_3
+131I is present in Haute-Marne in Radionuclide_3
+131I is present in Ille-et-Vilaine in Radionuclide_3
+131I is present in Isère in Radionuclide_3
+131I is present in Martinique in Radionuclide_3
+131I is present in Nord in Radionuclide_3
+131I is present in Rhône in Radionuclide_3
+131I is present in Seine-Maritime in Radionuclide_3
+131I is present in Vienne in Radionuclide_3
+131I is present in Ardennes in Radionuclide_4
+131I is present in Aube in Radionuclide_4
+131I is present in Aude in Radionuclide_4
+131I is present in Bouches-du-Rhône in Radionuclide_4
+131I is present in Bouches-du-Rhône in Radionuclide_4
+131I is present in Calvados in Radionuclide_4
+131I is present in Calvados in Radionuclide_4
+131I is present in Côtes-d'Armor in Radionuclide_4
+131I is present in Doubs in Radionuclide_4
+131I is present in Drôme in Radionuclide_4
+131I is present in Essonne in Radionuclide_4
+131I is present in Finistère in Radionuclide_4
+131I is present in Gironde in Radionuclide_4
+131I is present in Haut-Rhin in Radionuclide_4
+131I is present in Haute-Garonne in Radionuclide_4
+131I is present in Haute-Loire in Radionuclide_4
+131I is present in Haute-Vienne in Radionuclide_4
+131I is present in Hautes-Pyrénées in Radionuclide_4
+131I is present in Hauts-de-Seine in Radionuclide_4
+131I is present in Hauts-de-Seine in Radionuclide_4
+131I is present in Hauts-de-Seine in Radionuclide_4
+131I is present in Hérault in Radionuclide_4
+131I is present in Hérault in Radionuclide_4
+131I is present in Hérault in Radionuclide_4
+131I is present in Indre-et-Loire in Radionuclide_4
+131I is present in Loire in Radionuclide_4
+131I is present in Loire in Radionuclide_4
+131I is present in Loire in Radionuclide_4
+131I is present in Loire-Atlantique in Radionuclide_4
+131I is present in Loire-Atlantique in Radionuclide_4
+131I is present in Loiret in Radionuclide_4
+131I is present in Lot-et-Garonne in Radionuclide_4
+131I is present in Marne in Radionuclide_4
+131I is present in Meurthe-et-Moselle in Radionuclide_4
+131I is present in Monaco? in Radionuclide_4
+131I is present in Moselle in Radionuclide_4
+131I is present in Nièvre in Radionuclide_4
+131I is present in Nord in Radionuclide_4
+131I is present in Nord in Radionuclide_4
+131I is present in Nord in Radionuclide_4
+131I is present in Paris in Radionuclide_4
+131I is present in Paris in Radionuclide_4
+131I is present in Paris in Radionuclide_4
+131I is present in Pas-de-Calais in Radionuclide_4
+131I is present in Pas-de-Calais in Radionuclide_4
+131I is present in Puy-de-Dôme in Radionuclide_4
+131I is present in Pyrénées-Atlantiques in Radionuclide_4
+131I is present in Rhône in Radionuclide_4
+131I is present in Sarthe in Radionuclide_4
+131I is present in Savoie in Radionuclide_4
+131I is present in Saône-et-Loire in Radionuclide_4
+131I is present in Tarn in Radionuclide_4
+131I is present in Territoire de Belfort in Radionuclide_4
+131I is present in Val-de-Marne in Radionuclide_4
+131I is present in Val-de-Marne in Radionuclide_4
+131I is present in Val-de-Marne in Radionuclide_4
+131I is present in Var in Radionuclide_4
+131I is present in Vendée in Radionuclide_4
+131I is present in Yonne in Radionuclide_4
+131I is present in Yvelines in Radionuclide_4
+131I is present in Charente-Maritime in Radionuclide_5
+131I is present in Gironde in Radionuclide_5
+131I is present in Maine-et-Loire in Radionuclide_5
+131I is present in Nord in Radionuclide_5
+131I is present in Somme in Radionuclide_5
+131I is present in Val-d'Oise in Radionuclide_5
+131I is present in Corrèze in Radionuclide_6
+133Ba is present in Essonne in Radionuclide_3
+133Ba is present in Ille-et-Vilaine in Radionuclide_3
+133Ba is present in Yvelines in Radionuclide_3
+133Ba is present in Hauts-de-Seine in Radionuclide_4
+133Ba is present in Val-de-Marne in Radionuclide_4
+133Ba is present in Bas-Rhin in Radionuclide_5
+133Ba is present in Calvados in Radionuclide_6
+134Cs is present in Corrèze in Radionuclide_4
+134Cs is present in Corrèze in Radionuclide_4
+134Cs is present in Manche in Radionuclide_4
+134Cs is present in Manche in Radionuclide_4
+134Cs is present in Manche in Radionuclide_4
+134Cs is present in Vaucluse in Radionuclide_4
+134Cs is present in Vaucluse in Radionuclide_4
+134Cs is present in Isère in Radionuclide_5
+134Cs is present in Nord in Radionuclide_5
+134Cs is present in Vaucluse in Radionuclide_5
+137Cs is present in Bas-Rhin in Radionuclide_1
+137Cs is present in Essonne in Radionuclide_1
+137Cs is present in Essonne in Radionuclide_1
+137Cs is present in Essonne in Radionuclide_1
+137Cs is present in Manche in Radionuclide_1
+137Cs is present in Rhône in Radionuclide_1
+137Cs is present in Vaucluse in Radionuclide_1
+137Cs is present in Vaucluse in Radionuclide_1
+137Cs is present in Alpes-Maritimes in Radionuclide_2
+137Cs is present in Essonne in Radionuclide_2
+137Cs is present in Haute-Garonne in Radionuclide_2
+137Cs is present in Hauts-de-Seine in Radionuclide_2
+137Cs is present in Hauts-de-Seine in Radionuclide_2
+137Cs is present in Ille-et-Vilaine in Radionuclide_2
+137Cs is present in Manche in Radionuclide_2
+137Cs is present in Manche in Radionuclide_2
+137Cs is present in Manche in Radionuclide_2
+137Cs is present in Monaco? in Radionuclide_2
+137Cs is present in Rhône in Radionuclide_2
+137Cs is present in Val-de-Marne in Radionuclide_2
+137Cs is present in Vaucluse in Radionuclide_2
+137Cs is present in Yvelines in Radionuclide_2
+137Cs is present in Aude in Radionuclide_3
+137Cs is present in Corrèze in Radionuclide_3
+137Cs is present in Corrèze in Radionuclide_3
+137Cs is present in Hauts-de-Seine in Radionuclide_3
+137Cs is present in Hauts-de-Seine in Radionuclide_3
+137Cs is present in Hauts-de-Seine in Radionuclide_3
+137Cs is present in Ille-et-Vilaine in Radionuclide_3
+137Cs is present in Manche in Radionuclide_3
+137Cs is present in Manche in Radionuclide_3
+137Cs is present in Manche in Radionuclide_3
+137Cs is present in Manche in Radionuclide_3
+137Cs is present in Paris in Radionuclide_3
+137Cs is present in Rhône in Radionuclide_3
+137Cs is present in Val-de-Marne in Radionuclide_3
+137Cs is present in Vaucluse in Radionuclide_3
+137Cs is present in Vaucluse in Radionuclide_3
+137Cs is present in Vaucluse in Radionuclide_3
+137Cs is present in Vaucluse in Radionuclide_3
+137Cs is present in Essonne in Radionuclide_4
+137Cs is present in Essonne in Radionuclide_4
+137Cs is present in Gard in Radionuclide_4
+137Cs is present in Hauts-de-Seine in Radionuclide_4
+137Cs is present in Hauts-de-Seine in Radionuclide_4
+137Cs is present in Isère in Radionuclide_4
+137Cs is present in Loiret in Radionuclide_4
+137Cs is present in Manche in Radionuclide_4
+137Cs is present in Manche in Radionuclide_4
+137Cs is present in Nord in Radionuclide_4
+137Cs is present in Rhône in Radionuclide_4
+137Cs is present in Vaucluse in Radionuclide_4
+137Cs is present in Vaucluse in Radionuclide_4
+137Cs is present in Vaucluse in Radionuclide_4
+137Cs is present in Vaucluse in Radionuclide_4
+137Cs is present in Vaucluse in Radionuclide_4
+137Cs is present in Vaucluse in Radionuclide_4
+137Cs is present in Vaucluse in Radionuclide_4
+137Cs is present in Vaucluse in Radionuclide_4
+137Cs is present in Vaucluse in Radionuclide_4
+137Cs is present in Ain in Radionuclide_5
+137Cs is present in Ardennes in Radionuclide_5
+137Cs is present in Ardèche in Radionuclide_5
+137Cs is present in Aube in Radionuclide_5
+137Cs is present in Bouches-du-Rhône in Radionuclide_5
+137Cs is present in Cher in Radionuclide_5
+137Cs is present in Drôme in Radionuclide_5
+137Cs is present in Essonne in Radionuclide_5
+137Cs is present in Essonne in Radionuclide_5
+137Cs is present in Essonne in Radionuclide_5
+137Cs is present in Essonne in Radionuclide_5
+137Cs is present in Gard in Radionuclide_5
+137Cs is present in Gard in Radionuclide_5
+137Cs is present in Gironde in Radionuclide_5
+137Cs is present in Haut-Rhin in Radionuclide_5
+137Cs is present in Indre-et-Loire in Radionuclide_5
+137Cs is present in Indre-et-Loire in Radionuclide_5
+137Cs is present in Isère in Radionuclide_5
+137Cs is present in Loir-et-Cher in Radionuclide_5
+137Cs is present in Loire-Atlantique in Radionuclide_5
+137Cs is present in Loire-Atlantique in Radionuclide_5
+137Cs is present in Loiret in Radionuclide_5
+137Cs is present in Manche in Radionuclide_5
+137Cs is present in Manche in Radionuclide_5
+137Cs is present in Manche in Radionuclide_5
+137Cs is present in Moselle in Radionuclide_5
+137Cs is present in Nord in Radionuclide_5
+137Cs is present in Seine-Maritime in Radionuclide_5
+137Cs is present in Tarn-et-Garonne in Radionuclide_5
+137Cs is present in Vaucluse in Radionuclide_5
+137Cs is present in Vienne in Radionuclide_5
+137Cs is present in Gard in Radionuclide_6
+137Cs is present in Ille-et-Vilaine in Radionuclide_6
+137Cs is present in Loire-Atlantique in Radionuclide_6
+137Cs is present in Manche in Radionuclide_6
+137Cs is present in Manche in Radionuclide_6
+137Cs is present in Vaucluse in Radionuclide_6
+141Ce is present in Essonne in Radionuclide_6
+147Pm is present in Manche in Radionuclide_4
+147Pm is present in Manche in Radionuclide_5
+147Pm is present in Manche in Radionuclide_5
+147Pm is present in Manche in Radionuclide_5
+14C is present in Essonne in Radionuclide_1
+14C is present in Essonne in Radionuclide_2
+14C is present in Essonne in Radionuclide_2
+14C is present in Gard in Radionuclide_2
+14C is present in Hauts-de-Seine in Radionuclide_2
+14C is present in Hauts-de-Seine in Radionuclide_2
+14C is present in Hauts-de-Seine in Radionuclide_2
+14C is present in Hauts-de-Seine in Radionuclide_2
+14C is present in Hauts-de-Seine in Radionuclide_2
+14C is present in Ille-et-Vilaine in Radionuclide_2
+14C is present in Ille-et-Vilaine in Radionuclide_2
+14C is present in Ille-et-Vilaine in Radionuclide_2
+14C is present in Indre-et-Loire in Radionuclide_2
+14C is present in Isère in Radionuclide_2
+14C is present in Loire-Atlantique in Radionuclide_2
+14C is present in Loire-Atlantique in Radionuclide_2
+14C is present in Loire-Atlantique in Radionuclide_2
+14C is present in Loire-Atlantique in Radionuclide_2
+14C is present in Manche in Radionuclide_2
+14C is present in Manche in Radionuclide_2
+14C is present in Paris in Radionuclide_2
+14C is present in Rhône in Radionuclide_2
+14C is present in Rhône in Radionuclide_2
+14C is present in Rhône in Radionuclide_2
+14C is present in Rhône in Radionuclide_2
+14C is present in Rhône in Radionuclide_2
+14C is present in Yvelines in Radionuclide_2
+14C is present in Yvelines in Radionuclide_2
+151Sm is present in Gard in Radionuclide_6
+152Eu is present in Alpes-Maritimes in Radionuclide_2
+152Eu is present in Bas-Rhin in Radionuclide_2
+152Eu is present in Essonne in Radionuclide_2
+152Eu is present in Alpes-Maritimes in Radionuclide_3
+152Eu is present in Hauts-de-Seine in Radionuclide_3
+152Eu is present in Essonne in Radionuclide_4
+152Eu is present in Essonne in Radionuclide_4
+152Eu is present in Ille-et-Vilaine in Radionuclide_4
+152Eu is present in Loire-Atlantique in Radionuclide_4
+152Eu is present in Ain in Radionuclide_5
+152Eu is present in Essonne in Radionuclide_5
+152Eu is present in Hauts-de-Seine in Radionuclide_5
+152Eu is present in Bas-Rhin in Radionuclide_6
+152Eu is present in Essonne in Radionuclide_6
+152Eu is present in Loire-Atlantique in Radionuclide_6
+153Sm is present in Haute-Marne in Radionuclide_4
+153Sm is present in Ille-et-Vilaine in Radionuclide_4
+153Sm is present in Martinique in Radionuclide_4
+153Sm is present in Nord in Radionuclide_5
+153Sm is present in Pas-de-Calais in Radionuclide_5
+153Sm is present in Savoie in Radionuclide_5
+154Eu is present in Hauts-de-Seine in Radionuclide_4
+154Eu is present in Essonne in Radionuclide_5
+154Eu is present in Manche in Radionuclide_5
+154Eu is present in Ain in Radionuclide_6
+154Eu is present in Essonne in Radionuclide_6
+154Eu is present in Vaucluse in Radionuclide_6
+155Eu is present in Essonne in Radionuclide_6
+169Er is present in Paris in Radionuclide_3
+169Er is present in Alpes-Maritimes in Radionuclide_4
+177Lu is present in Bas-Rhin in Radionuclide_6
+177Lu is present in Bouches-du-Rhône in Radionuclide_6
+177Lu is present in Calvados in Radionuclide_6
+177Lu is present in Côte-d'Or in Radionuclide_6
+177Lu is present in Côte-d'Or in Radionuclide_6
+177Lu is present in Doubs in Radionuclide_6
+177Lu is present in Finistère in Radionuclide_6
+177Lu is present in Gard in Radionuclide_6
+177Lu is present in Gironde in Radionuclide_6
+177Lu is present in Gironde in Radionuclide_6
+177Lu is present in Haute-Garonne in Radionuclide_6
+177Lu is present in Hauts-de-Seine in Radionuclide_6
+177Lu is present in Hérault in Radionuclide_6
+177Lu is present in Ille-et-Vilaine in Radionuclide_6
+177Lu is present in Indre-et-Loire in Radionuclide_6
+177Lu is present in Isère in Radionuclide_6
+177Lu is present in Loire-Atlantique in Radionuclide_6
+177Lu is present in Loire-Atlantique in Radionuclide_6
+177Lu is present in Loire-Atlantique in Radionuclide_6
+177Lu is present in Meurthe-et-Moselle in Radionuclide_6
+177Lu is present in Monaco? in Radionuclide_6
+177Lu is present in Nord in Radionuclide_6
+177Lu is present in Paris in Radionuclide_6
+177Lu is present in Paris in Radionuclide_6
+177Lu is present in Puy-de-Dôme in Radionuclide_6
+177Lu is present in Rhône in Radionuclide_6
+177Lu is present in Seine-Maritime in Radionuclide_6
+177Lu is present in Val-de-Marne in Radionuclide_6
+177Lu is present in Vienne in Radionuclide_6
+182Ta is present in Essonne in Radionuclide_5
+182Ta is present in Haut-Rhin in Radionuclide_5
+186Re is present in Nord in Radionuclide_1
+18F is present in Aisne in Radionuclide_1
+18F is present in Aisne in Radionuclide_1
+18F is present in Alpes-Maritimes in Radionuclide_1
+18F is present in Aube in Radionuclide_1
+18F is present in Bas-Rhin in Radionuclide_1
+18F is present in Bouches-du-Rhône in Radionuclide_1
+18F is present in Calvados in Radionuclide_1
+18F is present in Charente-Maritime in Radionuclide_1
+18F is present in Drôme in Radionuclide_1
+18F is present in Finistère in Radionuclide_1
+18F is present in Gard in Radionuclide_1
+18F is present in Gironde in Radionuclide_1
+18F is present in Gironde in Radionuclide_1
+18F is present in Gironde in Radionuclide_1
+18F is present in Haute-Garonne in Radionuclide_1
+18F is present in Hauts-de-Seine in Radionuclide_1
+18F is present in Hauts-de-Seine in Radionuclide_1
+18F is present in Hauts-de-Seine in Radionuclide_1
+18F is present in Hérault in Radionuclide_1
+18F is present in Indre-et-Loire in Radionuclide_1
+18F is present in Isère in Radionuclide_1
+18F is present in Isère in Radionuclide_1
+18F is present in Loire in Radionuclide_1
+18F is present in Loire in Radionuclide_1
+18F is present in Loire in Radionuclide_1
+18F is present in Loire-Atlantique in Radionuclide_1
+18F is present in Loiret in Radionuclide_1
+18F is present in Marne in Radionuclide_1
+18F is present in Meurthe-et-Moselle in Radionuclide_1
+18F is present in Moselle in Radionuclide_1
+18F is present in Nièvre in Radionuclide_1
+18F is present in Nord in Radionuclide_1
+18F is present in Nord in Radionuclide_1
+18F is present in Nord in Radionuclide_1
+18F is present in Paris in Radionuclide_1
+18F is present in Paris in Radionuclide_1
+18F is present in Pas-de-Calais in Radionuclide_1
+18F is present in Pas-de-Calais in Radionuclide_1
+18F is present in Puy-de-Dôme in Radionuclide_1
+18F is present in Pyrénées-Atlantiques in Radionuclide_1
+18F is present in Pyrénées-Orientales in Radionuclide_1
+18F is present in Rhône in Radionuclide_1
+18F is present in Rhône in Radionuclide_1
+18F is present in Savoie in Radionuclide_1
+18F is present in Seine-Maritime in Radionuclide_1
+18F is present in Seine-Saint-Denis in Radionuclide_1
+18F is present in Somme in Radionuclide_1
+18F is present in Somme in Radionuclide_1
+18F is present in Tarn in Radionuclide_1
+18F is present in Territoire de Belfort in Radionuclide_1
+18F is present in Val-d'Oise in Radionuclide_1
+18F is present in Val-de-Marne in Radionuclide_1
+18F is present in Val-de-Marne in Radionuclide_1
+18F is present in Var in Radionuclide_1
+18F is present in Vendée in Radionuclide_1
+18F is present in Yonne in Radionuclide_1
+18F is present in Yvelines in Radionuclide_1
+18F is present in Haute-Vienne in Radionuclide_2
+18F is present in Hauts-de-Seine in Radionuclide_2
+18F is present in Indre-et-Loire in Radionuclide_2
+18F is present in Maine-et-Loire in Radionuclide_2
+18F is present in Monaco? in Radionuclide_2
+18F is present in Meurthe-et-Moselle in Radionuclide_3
+18F is present in Ain in Radionuclide_4
+198Au is present in Haut-Rhin in Radionuclide_4
+198Au is present in La Réunion in Radionuclide_5
+201Tl is present in Bas-Rhin in Radionuclide_4
+201Tl is present in Côte-d'Or in Radionuclide_4
+201Tl is present in Haute-Garonne in Radionuclide_4
+201Tl is present in Isère in Radionuclide_4
+201Tl is present in Isère in Radionuclide_4
+201Tl is present in Paris in Radionuclide_4
+201Tl is present in Pyrénées-Orientales in Radionuclide_4
+201Tl is present in Rhône in Radionuclide_4
+201Tl is present in Aisne in Radionuclide_5
+201Tl is present in Aisne in Radionuclide_5
+201Tl is present in Ardennes in Radionuclide_5
+201Tl is present in Aude in Radionuclide_5
+201Tl is present in Bas-Rhin in Radionuclide_5
+201Tl is present in Bouches-du-Rhône in Radionuclide_5
+201Tl is present in Bouches-du-Rhône in Radionuclide_5
+201Tl is present in Calvados in Radionuclide_5
+201Tl is present in Côtes-d'Armor in Radionuclide_5
+201Tl is present in Drôme in Radionuclide_5
+201Tl is present in Essonne in Radionuclide_5
+201Tl is present in Haut-Rhin in Radionuclide_5
+201Tl is present in Haute-Loire in Radionuclide_5
+201Tl is present in Haute-Marne in Radionuclide_5
+201Tl is present in Hautes-Pyrénées in Radionuclide_5
+201Tl is present in Hauts-de-Seine in Radionuclide_5
+201Tl is present in Hauts-de-Seine in Radionuclide_5
+201Tl is present in Hauts-de-Seine in Radionuclide_5
+201Tl is present in Hérault in Radionuclide_5
+201Tl is present in Loire in Radionuclide_5
+201Tl is present in Loire in Radionuclide_5
+201Tl is present in Loiret in Radionuclide_5
+201Tl is present in Lot-et-Garonne in Radionuclide_5
+201Tl is present in Marne in Radionuclide_5
+201Tl is present in Martinique in Radionuclide_5
+201Tl is present in Meurthe-et-Moselle in Radionuclide_5
+201Tl is present in Moselle in Radionuclide_5
+201Tl is present in Nièvre in Radionuclide_5
+201Tl is present in Nord in Radionuclide_5
+201Tl is present in Nord in Radionuclide_5
+201Tl is present in Paris in Radionuclide_5
+201Tl is present in Pas-de-Calais in Radionuclide_5
+201Tl is present in Pas-de-Calais in Radionuclide_5
+201Tl is present in Pyrénées-Atlantiques in Radionuclide_5
+201Tl is present in Sarthe in Radionuclide_5
+201Tl is present in Saône-et-Loire in Radionuclide_5
+201Tl is present in Seine-Saint-Denis in Radionuclide_5
+201Tl is present in Somme in Radionuclide_5
+201Tl is present in Tarn in Radionuclide_5
+201Tl is present in Territoire de Belfort in Radionuclide_5
+201Tl is present in Val-de-Marne in Radionuclide_5
+201Tl is present in Val-de-Marne in Radionuclide_5
+201Tl is present in Yonne in Radionuclide_5
+201Tl is present in Yvelines in Radionuclide_5
+201Tl is present in Nord in Radionuclide_6
+204Tl is present in Bouches-du-Rhône in Radionuclide_1
+204Tl is present in Hauts-de-Seine in Radionuclide_6
+208Po is present in Haute-Vienne in Radionuclide_3
+210Pb is present in Hauts-de-Seine in Radionuclide_1
+210Pb is present in Bouches-du-Rhône in Radionuclide_2
+210Pb is present in Essonne in Radionuclide_2
+210Pb is present in Finistère in Radionuclide_2
+210Pb is present in Haute-Vienne in Radionuclide_2
+210Pb is present in Paris in Radionuclide_2
+210Pb is present in Hauts-de-Seine in Radionuclide_3
+210Pb is present in Monaco? in Radionuclide_3
+210Pb is present in Rhône in Radionuclide_3
+210Pb is present in Hauts-de-Seine in Radionuclide_4
+210Pb is present in Hauts-de-Seine in Radionuclide_4
+210Pb is present in Loire-Atlantique in Radionuclide_4
+210Pb is present in Corrèze in Radionuclide_5
+210Pb is present in Hauts-de-Seine in Radionuclide_5
+210Pb is present in Hauts-de-Seine in Radionuclide_5
+210Pb is present in Loire-Atlantique in Radionuclide_5
+210Pb is present in Loiret in Radionuclide_5
+210Po is present in Finistère in Radionuclide_6
+210Po is present in Hauts-de-Seine in Radionuclide_6
+225Ac is present in Loire-Atlantique in Radionuclide_3
+226Ra is present in Essonne in Radionuclide_1
+226Ra is present in Hérault in Radionuclide_1
+226Ra is present in Aude in Radionuclide_2
+226Ra is present in Essonne in Radionuclide_2
+226Ra is present in Essonne in Radionuclide_2
+226Ra is present in Hauts-de-Seine in Radionuclide_2
+226Ra is present in Rhône in Radionuclide_2
+226Ra is present in Essonne in Radionuclide_3
+226Ra is present in Finistère in Radionuclide_3
+226Ra is present in Haute-Garonne in Radionuclide_3
+226Ra is present in Hauts-de-Seine in Radionuclide_3
+226Ra is present in Paris in Radionuclide_3
+226Ra is present in Val-de-Marne in Radionuclide_3
+226Ra is present in Gironde in Radionuclide_4
+226Ra is present in Haute-Vienne in Radionuclide_4
+226Ra is present in Hauts-de-Seine in Radionuclide_4
+226Ra is present in Rhône in Radionuclide_4
+226Ra is present in Yvelines in Radionuclide_4
+226Ra is present in Hauts-de-Seine in Radionuclide_5
+226Ra is present in Hauts-de-Seine in Radionuclide_5
+226Ra is present in Hauts-de-Seine in Radionuclide_5
+226Ra is present in Hauts-de-Seine in Radionuclide_5
+226Ra is present in Hauts-de-Seine in Radionuclide_6
+226Ra is present in Hauts-de-Seine in Radionuclide_6
+226Ra is present in Loire-Atlantique in Radionuclide_6
+226Ra is present in Rhône in Radionuclide_6
+227Ac is present in Bouches-du-Rhône in Radionuclide_4
+227Th is present in Aude in Radionuclide_6
+228Ra is present in Bouches-du-Rhône in Radionuclide_3
+228Th is present in Essonne in Radionuclide_3
+228Th is present in Essonne in Radionuclide_3
+228Th is present in Loiret in Radionuclide_6
+229Th is present in Essonne in Radionuclide_4
+229Th is present in Monaco? in Radionuclide_4
+22Na is present in Calvados in Radionuclide_1
+22Na is present in Isère in Radionuclide_1
+22Na is present in Loire-Atlantique in Radionuclide_1
+22Na is present in Loiret in Radionuclide_1
+22Na is present in Loiret in Radionuclide_1
+22Na is present in Ain in Radionuclide_2
+22Na is present in Ain in Radionuclide_2
+22Na is present in Calvados in Radionuclide_2
+22Na is present in Calvados in Radionuclide_2
+22Na is present in Hauts-de-Seine in Radionuclide_2
+22Na is present in Loire-Atlantique in Radionuclide_2
+22Na is present in Loire-Atlantique in Radionuclide_2
+22Na is present in Hauts-de-Seine in Radionuclide_3
+22Na is present in Ille-et-Vilaine in Radionuclide_3
+22Na is present in Isère in Radionuclide_3
+230Th is present in Hauts-de-Seine in Radionuclide_3
+230Th is present in Paris in Radionuclide_4
+232Th is present in Aude in Radionuclide_3
+232Th is present in Bas-Rhin in Radionuclide_3
+232Th is present in Essonne in Radionuclide_3
+232Th is present in Essonne in Radionuclide_3
+232Th is present in Rhône in Radionuclide_3
+232Th is present in Yvelines in Radionuclide_3
+232Th is present in Alpes-Maritimes in Radionuclide_4
+232Th is present in Alpes-Maritimes in Radionuclide_4
+232Th is present in Paris in Radionuclide_4
+232Th is present in Rhône in Radionuclide_4
+232Th is present in Rhône in Radionuclide_4
+232Th is present in Gironde in Radionuclide_5
+232Th is present in Hauts-de-Seine in Radionuclide_5
+232Th is present in Rhône in Radionuclide_5
+232Th is present in Hauts-de-Seine in Radionuclide_6
+232U is present in Essonne in Radionuclide_4
+232U is present in Ille-et-Vilaine in Radionuclide_4
+232U is present in Essonne in Radionuclide_5
+232U is present in Haute-Vienne in Radionuclide_5
+233U is present in Essonne in Radionuclide_5
+233U is present in Essonne in Radionuclide_6
+234U is present in Rhône in Radionuclide_3
+234U is present in Aude in Radionuclide_4
+234U is present in Finistère in Radionuclide_4
+234U is present in Rhône in Radionuclide_4
+234U is present in Rhône in Radionuclide_4
+234U is present in Paris in Radionuclide_5
+234U is present in Rhône in Radionuclide_5
+234U is present in Vaucluse in Radionuclide_5
+235U is present in Aude in Radionuclide_1
+235U is present in Gard in Radionuclide_1
+235U is present in Bas-Rhin in Radionuclide_4
+235U is present in Essonne in Radionuclide_4
+235U is present in Rhône in Radionuclide_4
+235U is present in Essonne in Radionuclide_5
+235U is present in Finistère in Radionuclide_5
+235U is present in Hauts-de-Seine in Radionuclide_5
+235U is present in Monaco? in Radionuclide_5
+235U is present in Rhône in Radionuclide_5
+235U is present in Rhône in Radionuclide_5
+235U is present in Rhône in Radionuclide_5
+235U is present in Val-de-Marne in Radionuclide_5
+235U is present in Rhône in Radionuclide_6
+237Np is present in Aude in Radionuclide_3
+237Np is present in Hauts-de-Seine in Radionuclide_4
+237Np is present in Essonne in Radionuclide_6
+237Np is present in Monaco? in Radionuclide_6
+238Pu is present in Manche in Radionuclide_1
+238Pu is present in Manche in Radionuclide_2
+238Pu is present in Vaucluse in Radionuclide_2
+238Pu is present in Gard in Radionuclide_3
+238Pu is present in Manche in Radionuclide_3
+238Pu is present in Manche in Radionuclide_3
+238Pu is present in Manche in Radionuclide_3
+238Pu is present in Vaucluse in Radionuclide_3
+238Pu is present in Essonne in Radionuclide_4
+238Pu is present in Essonne in Radionuclide_5
+238Pu is present in Hauts-de-Seine in Radionuclide_5
+238Pu is present in Essonne in Radionuclide_6
+238U is present in Aude in Radionuclide_2
+238U is present in Gard in Radionuclide_2
+238U is present in Aude in Radionuclide_5
+238U is present in Bas-Rhin in Radionuclide_5
+238U is present in Essonne in Radionuclide_5
+238U is present in Loire-Atlantique in Radionuclide_5
+238U is present in Paris in Radionuclide_5
+238U is present in Rhône in Radionuclide_5
+238U is present in Essonne in Radionuclide_6
+238U is present in Hauts-de-Seine in Radionuclide_6
+238U is present in Hauts-de-Seine in Radionuclide_6
+238U is present in Hauts-de-Seine in Radionuclide_6
+238U is present in Paris in Radionuclide_6
+238U is present in Rhône in Radionuclide_6
+238U is present in Rhône in Radionuclide_6
+238U is present in Rhône in Radionuclide_6
+238U is present in Val-de-Marne in Radionuclide_6
+239Pu is present in Manche in Radionuclide_2
+239Pu is present in Vaucluse in Radionuclide_2
+239Pu is present in Manche in Radionuclide_3
+239Pu is present in Vaucluse in Radionuclide_3
+239Pu is present in Aude in Radionuclide_4
+239Pu is present in Gard in Radionuclide_4
+239Pu is present in Manche in Radionuclide_4
+239Pu is present in Manche in Radionuclide_4
+239Pu is present in Val-de-Marne in Radionuclide_4
+239Pu is present in Vaucluse in Radionuclide_4
+239Pu is present in Alpes-Maritimes in Radionuclide_5
+239Pu is present in Gard in Radionuclide_5
+239Pu is present in Haute-Vienne in Radionuclide_6
+239Pu is present in Manche in Radionuclide_6
+240Pu is present in Manche in Radionuclide_3
+240Pu is present in Vaucluse in Radionuclide_3
+240Pu is present in Manche in Radionuclide_4
+240Pu is present in Manche in Radionuclide_4
+240Pu is present in Vaucluse in Radionuclide_4
+240Pu is present in Gard in Radionuclide_5
+240Pu is present in Manche in Radionuclide_5
+240Pu is present in Manche in Radionuclide_5
+240Pu is present in Val-de-Marne in Radionuclide_5
+240Pu is present in Vaucluse in Radionuclide_5
+241Am is present in Essonne in Radionuclide_3
+241Am is present in Vaucluse in Radionuclide_4
+241Am is present in Vaucluse in Radionuclide_4
+241Am is present in Alpes-Maritimes in Radionuclide_5
+241Am is present in Corrèze in Radionuclide_5
+241Am is present in Essonne in Radionuclide_5
+241Am is present in Manche in Radionuclide_5
+241Am is present in Vaucluse in Radionuclide_5
+241Am is present in Vaucluse in Radionuclide_5
+241Am is present in Vaucluse in Radionuclide_5
+241Am is present in Aude in Radionuclide_6
+241Am is present in Bas-Rhin in Radionuclide_6
+241Am is present in Essonne in Radionuclide_6
+241Am is present in Gard in Radionuclide_6
+241Am is present in Gard in Radionuclide_6
+241Am is present in Hauts-de-Seine in Radionuclide_6
+241Am is present in Hauts-de-Seine in Radionuclide_6
+241Am is present in Hauts-de-Seine in Radionuclide_6
+241Am is present in Hauts-de-Seine in Radionuclide_6
+241Am is present in Loire-Atlantique in Radionuclide_6
+241Am is present in Manche in Radionuclide_6
+241Am is present in Manche in Radionuclide_6
+241Am is present in Manche in Radionuclide_6
+241Am is present in Manche in Radionuclide_6
+241Am is present in Manche in Radionuclide_6
+241Am is present in Manche in Radionuclide_6
+241Am is present in Paris in Radionuclide_6
+241Am is present in Val-de-Marne in Radionuclide_6
+241Am is present in Vaucluse in Radionuclide_6
+241Am is present in Vaucluse in Radionuclide_6
+241Am is present in Vaucluse in Radionuclide_6
+241Pu is present in Manche in Radionuclide_4
+241Pu is present in Vaucluse in Radionuclide_4
+241Pu is present in Aude in Radionuclide_5
+241Pu is present in Ille-et-Vilaine in Radionuclide_5
+241Pu is present in Manche in Radionuclide_5
+241Pu is present in Manche in Radionuclide_5
+241Pu is present in Manche in Radionuclide_5
+241Pu is present in Vaucluse in Radionuclide_5
+241Pu is present in Ille-et-Vilaine in Radionuclide_6
+241Pu is present in Indre-et-Loire in Radionuclide_6
+241Pu is present in Manche in Radionuclide_6
+241Pu is present in Manche in Radionuclide_6
+241Pu is present in Manche in Radionuclide_6
+242Pu is present in Aude in Radionuclide_4
+242Pu is present in Ille-et-Vilaine in Radionuclide_5
+242Pu is present in Manche in Radionuclide_5
+242Pu is present in Vaucluse in Radionuclide_5
+244Cm is present in Vaucluse in Radionuclide_5
+244Cm is present in Manche in Radionuclide_6
+32P is present in Calvados in Radionuclide_2
+36Cl is present in Hauts-de-Seine in Radionuclide_4
+36Cl is present in Ille-et-Vilaine in Radionuclide_4
+3H is present in Ain in Radionuclide_1
+3H is present in Ain in Radionuclide_1
+3H is present in Bas-Rhin in Radionuclide_1
+3H is present in Calvados in Radionuclide_1
+3H is present in Calvados in Radionuclide_1
+3H is present in Essonne in Radionuclide_1
+3H is present in Essonne in Radionuclide_1
+3H is present in Essonne in Radionuclide_1
+3H is present in Essonne in Radionuclide_1
+3H is present in Gard in Radionuclide_1
+3H is present in Gironde in Radionuclide_1
+3H is present in Hauts-de-Seine in Radionuclide_1
+3H is present in Hauts-de-Seine in Radionuclide_1
+3H is present in Hauts-de-Seine in Radionuclide_1
+3H is present in Hauts-de-Seine in Radionuclide_1
+3H is present in Hauts-de-Seine in Radionuclide_1
+3H is present in Hauts-de-Seine in Radionuclide_1
+3H is present in Hauts-de-Seine in Radionuclide_1
+3H is present in Hauts-de-Seine in Radionuclide_1
+3H is present in Hauts-de-Seine in Radionuclide_1
+3H is present in Ille-et-Vilaine in Radionuclide_1
+3H is present in Ille-et-Vilaine in Radionuclide_1
+3H is present in Ille-et-Vilaine in Radionuclide_1
+3H is present in Indre-et-Loire in Radionuclide_1
+3H is present in Isère in Radionuclide_1
+3H is present in Loire-Atlantique in Radionuclide_1
+3H is present in Loire-Atlantique in Radionuclide_1
+3H is present in Loire-Atlantique in Radionuclide_1
+3H is present in Loire-Atlantique in Radionuclide_1
+3H is present in Loire-Atlantique in Radionuclide_1
+3H is present in Loire-Atlantique in Radionuclide_1
+3H is present in Manche in Radionuclide_1
+3H is present in Manche in Radionuclide_1
+3H is present in Manche in Radionuclide_1
+3H is present in Manche in Radionuclide_1
+3H is present in Meurthe-et-Moselle in Radionuclide_1
+3H is present in Paris in Radionuclide_1
+3H is present in Paris in Radionuclide_1
+3H is present in Rhône in Radionuclide_1
+3H is present in Rhône in Radionuclide_1
+3H is present in Rhône in Radionuclide_1
+3H is present in Rhône in Radionuclide_1
+3H is present in Rhône in Radionuclide_1
+3H is present in Val-d'Oise in Radionuclide_1
+3H is present in Val-de-Marne in Radionuclide_1
+3H is present in Vaucluse in Radionuclide_1
+3H is present in Vaucluse in Radionuclide_1
+3H is present in Vaucluse in Radionuclide_1
+3H is present in Vaucluse in Radionuclide_1
+3H is present in Vaucluse in Radionuclide_1
+3H is present in Yvelines in Radionuclide_1
+3H is present in Yvelines in Radionuclide_1
+3H is present in Yvelines in Radionuclide_1
+40K is present in Essonne in Radionuclide_1
+40K is present in Essonne in Radionuclide_1
+40K is present in Hauts-de-Seine in Radionuclide_2
+44Ti is present in Calvados in Radionuclide_1
+44Ti is present in Ain in Radionuclide_3
+44Ti is present in Calvados in Radionuclide_3
+46Sc is present in Hérault in Radionuclide_5
+51Cr is present in Haute-Garonne in Radionuclide_2
+51Cr is present in Nord in Radionuclide_2
+51Cr is present in Ille-et-Vilaine in Radionuclide_4
+51Cr is present in Val-d'Oise in Radionuclide_4
+51Cr is present in Ain in Radionuclide_5
+51Cr is present in Ain in Radionuclide_5
+51Cr is present in Aube in Radionuclide_5
+51Cr is present in Essonne in Radionuclide_5
+51Cr is present in Gard in Radionuclide_5
+51Cr is present in Gironde in Radionuclide_5
+51Cr is present in Hauts-de-Seine in Radionuclide_5
+51Cr is present in Hauts-de-Seine in Radionuclide_5
+51Cr is present in Hauts-de-Seine in Radionuclide_5
+51Cr is present in La Réunion in Radionuclide_5
+51Cr is present in Meurthe-et-Moselle in Radionuclide_5
+51Cr is present in Paris in Radionuclide_5
+51Cr is present in Pas-de-Calais in Radionuclide_5
+51Cr is present in Essonne in Radionuclide_6
+51Cr is present in Essonne in Radionuclide_6
+51Cr is present in Essonne in Radionuclide_6
+52Mn is present in Bas-Rhin in Radionuclide_6
+52Mn is present in Ille-et-Vilaine in Radionuclide_6
+54Mn is present in Ain in Radionuclide_1
+54Mn is present in Ain in Radionuclide_1
+54Mn is present in Ain in Radionuclide_1
+54Mn is present in Ardennes in Radionuclide_1
+54Mn is present in Ardèche in Radionuclide_1
+54Mn is present in Aube in Radionuclide_1
+54Mn is present in Aube in Radionuclide_1
+54Mn is present in Bas-Rhin in Radionuclide_1
+54Mn is present in Calvados in Radionuclide_1
+54Mn is present in Cher in Radionuclide_1
+54Mn is present in Corrèze in Radionuclide_1
+54Mn is present in Drôme in Radionuclide_1
+54Mn is present in Essonne in Radionuclide_1
+54Mn is present in Essonne in Radionuclide_1
+54Mn is present in Gard in Radionuclide_1
+54Mn is present in Gard in Radionuclide_1
+54Mn is present in Gironde in Radionuclide_1
+54Mn is present in Gironde in Radionuclide_1
+54Mn is present in Haut-Rhin in Radionuclide_1
+54Mn is present in Haut-Rhin in Radionuclide_1
+54Mn is present in Hauts-de-Seine in Radionuclide_1
+54Mn is present in Hauts-de-Seine in Radionuclide_1
+54Mn is present in Hérault in Radionuclide_1
+54Mn is present in Ille-et-Vilaine in Radionuclide_1
+54Mn is present in Indre-et-Loire in Radionuclide_1
+54Mn is present in Isère in Radionuclide_1
+54Mn is present in La Réunion in Radionuclide_1
+54Mn is present in La Réunion in Radionuclide_1
+54Mn is present in La Réunion in Radionuclide_1
+54Mn is present in Loir-et-Cher in Radionuclide_1
+54Mn is present in Loiret in Radionuclide_1
+54Mn is present in Manche in Radionuclide_1
+54Mn is present in Moselle in Radionuclide_1
+54Mn is present in Nord in Radionuclide_1
+54Mn is present in Nord in Radionuclide_1
+54Mn is present in Paris in Radionuclide_1
+54Mn is present in Pas-de-Calais in Radionuclide_1
+54Mn is present in Seine-Maritime in Radionuclide_1
+54Mn is present in Tarn-et-Garonne in Radionuclide_1
+54Mn is present in Vaucluse in Radionuclide_1
+54Mn is present in Vaucluse in Radionuclide_1
+54Mn is present in Vaucluse in Radionuclide_1
+54Mn is present in Vaucluse in Radionuclide_1
+54Mn is present in Vaucluse in Radionuclide_1
+54Mn is present in Vienne in Radionuclide_1
+54Mn is present in Calvados in Radionuclide_2
+54Mn is present in Calvados in Radionuclide_2
+54Mn is present in Essonne in Radionuclide_2
+54Mn is present in Essonne in Radionuclide_2
+54Mn is present in Loire-Atlantique in Radionuclide_2
+54Mn is present in Loiret in Radionuclide_2
+54Mn is present in Meurthe-et-Moselle in Radionuclide_2
+54Mn is present in Ain in Radionuclide_3
+54Mn is present in Loire-Atlantique in Radionuclide_3
+54Mn is present in Isère in Radionuclide_4
+55Fe is present in Bouches-du-Rhône in Radionuclide_1
+55Fe is present in Essonne in Radionuclide_1
+55Fe is present in Gard in Radionuclide_1
+55Fe is present in Indre-et-Loire in Radionuclide_1
+55Fe is present in Manche in Radionuclide_1
+55Fe is present in Vaucluse in Radionuclide_1
+55Fe is present in Essonne in Radionuclide_2
+55Fe is present in Hérault in Radionuclide_2
+55Fe is present in Manche in Radionuclide_2
+55Fe is present in Vaucluse in Radionuclide_2
+55Fe is present in Vaucluse in Radionuclide_2
+55Fe is present in Bas-Rhin in Radionuclide_3
+55Fe is present in Calvados in Radionuclide_3
+55Fe is present in Gard in Radionuclide_3
+55Fe is present in Hauts-de-Seine in Radionuclide_3
+55Fe is present in Ille-et-Vilaine in Radionuclide_3
+55Fe is present in Indre-et-Loire in Radionuclide_3
+55Fe is present in Loire-Atlantique in Radionuclide_3
+55Fe is present in Loire-Atlantique in Radionuclide_3
+55Fe is present in Ain in Radionuclide_4
+55Fe is present in Calvados in Radionuclide_4
+56Co is present in Bas-Rhin in Radionuclide_4
+56Co is present in Essonne in Radionuclide_4
+56Co is present in Calvados in Radionuclide_5
+56Co is present in Gard in Radionuclide_5
+56Co is present in Ille-et-Vilaine in Radionuclide_5
+56Co is present in Val-d'Oise in Radionuclide_5
+56Co is present in Ain in Radionuclide_6
+56Co is present in Ain in Radionuclide_6
+56Co is present in Aube in Radionuclide_6
+56Co is present in Calvados in Radionuclide_6
+56Co is present in Essonne in Radionuclide_6
+56Co is present in Essonne in Radionuclide_6
+56Co is present in Gard in Radionuclide_6
+56Co is present in Gironde in Radionuclide_6
+56Co is present in Hauts-de-Seine in Radionuclide_6
+56Co is present in Hauts-de-Seine in Radionuclide_6
+56Co is present in Hauts-de-Seine in Radionuclide_6
+56Co is present in La Réunion in Radionuclide_6
+56Co is present in La Réunion in Radionuclide_6
+56Co is present in Meurthe-et-Moselle in Radionuclide_6
+56Co is present in Paris in Radionuclide_6
+56Co is present in Pas-de-Calais in Radionuclide_6
+56Co is present in Vaucluse in Radionuclide_6
+57Co is present in Indre-et-Loire in Radionuclide_1
+57Co is present in Meurthe-et-Moselle in Radionuclide_1
+57Co is present in Ain in Radionuclide_2
+57Co is present in Bas-Rhin in Radionuclide_2
+57Co is present in Corrèze in Radionuclide_2
+57Co is present in Essonne in Radionuclide_2
+57Co is present in Essonne in Radionuclide_2
+57Co is present in Gard in Radionuclide_2
+57Co is present in Gard in Radionuclide_2
+57Co is present in Gironde in Radionuclide_2
+57Co is present in Hauts-de-Seine in Radionuclide_2
+57Co is present in Hauts-de-Seine in Radionuclide_2
+57Co is present in Ille-et-Vilaine in Radionuclide_2
+57Co is present in La Réunion in Radionuclide_2
+57Co is present in La Réunion in Radionuclide_2
+57Co is present in La Réunion in Radionuclide_2
+57Co is present in Paris in Radionuclide_2
+57Co is present in Paris in Radionuclide_2
+57Co is present in Val-d'Oise in Radionuclide_2
+57Co is present in Vaucluse in Radionuclide_2
+57Co is present in Ain in Radionuclide_3
+57Co is present in Aube in Radionuclide_3
+57Co is present in Calvados in Radionuclide_3
+57Co is present in Calvados in Radionuclide_3
+57Co is present in Essonne in Radionuclide_3
+57Co is present in Essonne in Radionuclide_3
+57Co is present in Hauts-de-Seine in Radionuclide_3
+57Co is present in Meurthe-et-Moselle in Radionuclide_3
+57Co is present in Calvados in Radionuclide_4
+57Co is present in Essonne in Radionuclide_4
+57Co is present in Loiret in Radionuclide_4
+57Co is present in Calvados in Radionuclide_5
+57Co is present in Ille-et-Vilaine in Radionuclide_5
+57Co is present in Isère in Radionuclide_5
+57Co is present in Loire-Atlantique in Radionuclide_5
+57Co is present in Loire-Atlantique in Radionuclide_5
+57Co is present in Calvados in Radionuclide_6
+58Co is present in Ain in Radionuclide_3
+58Co is present in Bas-Rhin in Radionuclide_3
+58Co is present in Haut-Rhin in Radionuclide_3
+58Co is present in Ille-et-Vilaine in Radionuclide_3
+58Co is present in La Réunion in Radionuclide_3
+58Co is present in Paris in Radionuclide_3
+58Co is present in Val-d'Oise in Radionuclide_3
+58Co is present in Ain in Radionuclide_4
+58Co is present in Aube in Radionuclide_4
+58Co is present in Calvados in Radionuclide_4
+58Co is present in Gard in Radionuclide_4
+58Co is present in Gard in Radionuclide_4
+58Co is present in Gironde in Radionuclide_4
+58Co is present in Hauts-de-Seine in Radionuclide_4
+58Co is present in Hauts-de-Seine in Radionuclide_4
+58Co is present in Hauts-de-Seine in Radionuclide_4
+58Co is present in La Réunion in Radionuclide_4
+58Co is present in Meurthe-et-Moselle in Radionuclide_4
+58Co is present in Paris in Radionuclide_4
+58Co is present in Pas-de-Calais in Radionuclide_4
+58Co is present in Calvados in Radionuclide_5
+58Co is present in La Réunion in Radionuclide_5
+58Co is present in Vaucluse in Radionuclide_5
+58Co is present in Ain in Radionuclide_6
+58Co is present in Ardennes in Radionuclide_6
+58Co is present in Ardèche in Radionuclide_6
+58Co is present in Aube in Radionuclide_6
+58Co is present in Aude in Radionuclide_6
+58Co is present in Bouches-du-Rhône in Radionuclide_6
+58Co is present in Cher in Radionuclide_6
+58Co is present in Drôme in Radionuclide_6
+58Co is present in Gard in Radionuclide_6
+58Co is present in Gironde in Radionuclide_6
+58Co is present in Haut-Rhin in Radionuclide_6
+58Co is present in Ille-et-Vilaine in Radionuclide_6
+58Co is present in Indre-et-Loire in Radionuclide_6
+58Co is present in Isère in Radionuclide_6
+58Co is present in Isère in Radionuclide_6
+58Co is present in Loir-et-Cher in Radionuclide_6
+58Co is present in Loiret in Radionuclide_6
+58Co is present in Manche in Radionuclide_6
+58Co is present in Moselle in Radionuclide_6
+58Co is present in Nord in Radionuclide_6
+58Co is present in Nord in Radionuclide_6
+58Co is present in Seine-Maritime in Radionuclide_6
+58Co is present in Tarn-et-Garonne in Radionuclide_6
+58Co is present in Vaucluse in Radionuclide_6
+58Co is present in Vaucluse in Radionuclide_6
+58Co is present in Vaucluse in Radionuclide_6
+58Co is present in Vaucluse in Radionuclide_6
+58Co is present in Vaucluse in Radionuclide_6
+58Co is present in Vienne in Radionuclide_6
+59Fe is present in Calvados in Radionuclide_6
+59Fe is present in Hérault in Radionuclide_6
+60Co is present in Alpes-Maritimes in Radionuclide_1
+60Co is present in Alpes-Maritimes in Radionuclide_1
+60Co is present in Aude in Radionuclide_1
+60Co is present in Corrèze in Radionuclide_1
+60Co is present in Essonne in Radionuclide_1
+60Co is present in Essonne in Radionuclide_1
+60Co is present in Essonne in Radionuclide_1
+60Co is present in Essonne in Radionuclide_1
+60Co is present in Gard in Radionuclide_1
+60Co is present in Gard in Radionuclide_1
+60Co is present in Haute-Garonne in Radionuclide_1
+60Co is present in Hauts-de-Seine in Radionuclide_1
+60Co is present in Hauts-de-Seine in Radionuclide_1
+60Co is present in Hauts-de-Seine in Radionuclide_1
+60Co is present in Ille-et-Vilaine in Radionuclide_1
+60Co is present in Loire-Atlantique in Radionuclide_1
+60Co is present in Manche in Radionuclide_1
+60Co is present in Manche in Radionuclide_1
+60Co is present in Paris in Radionuclide_1
+60Co is present in Rhône in Radionuclide_1
+60Co is present in Vaucluse in Radionuclide_1
+60Co is present in Vaucluse in Radionuclide_1
+60Co is present in Vaucluse in Radionuclide_1
+60Co is present in Vaucluse in Radionuclide_1
+60Co is present in Yvelines in Radionuclide_1
+60Co is present in Ain in Radionuclide_2
+60Co is present in Ain in Radionuclide_2
+60Co is present in Ardennes in Radionuclide_2
+60Co is present in Ardèche in Radionuclide_2
+60Co is present in Aube in Radionuclide_2
+60Co is present in Aube in Radionuclide_2
+60Co is present in Bouches-du-Rhône in Radionuclide_2
+60Co is present in Calvados in Radionuclide_2
+60Co is present in Cher in Radionuclide_2
+60Co is present in Drôme in Radionuclide_2
+60Co is present in Essonne in Radionuclide_2
+60Co is present in Essonne in Radionuclide_2
+60Co is present in Essonne in Radionuclide_2
+60Co is present in Gard in Radionuclide_2
+60Co is present in Gironde in Radionuclide_2
+60Co is present in Gironde in Radionuclide_2
+60Co is present in Haut-Rhin in Radionuclide_2
+60Co is present in Haut-Rhin in Radionuclide_2
+60Co is present in Hauts-de-Seine in Radionuclide_2
+60Co is present in Hauts-de-Seine in Radionuclide_2
+60Co is present in Indre-et-Loire in Radionuclide_2
+60Co is present in Indre-et-Loire in Radionuclide_2
+60Co is present in Isère in Radionuclide_2
+60Co is present in Isère in Radionuclide_2
+60Co is present in Loir-et-Cher in Radionuclide_2
+60Co is present in Loiret in Radionuclide_2
+60Co is present in Loiret in Radionuclide_2
+60Co is present in Manche in Radionuclide_2
+60Co is present in Manche in Radionuclide_2
+60Co is present in Moselle in Radionuclide_2
+60Co is present in Nord in Radionuclide_2
+60Co is present in Nord in Radionuclide_2
+60Co is present in Pas-de-Calais in Radionuclide_2
+60Co is present in Seine-Maritime in Radionuclide_2
+60Co is present in Tarn-et-Garonne in Radionuclide_2
+60Co is present in Val-de-Marne in Radionuclide_2
+60Co is present in Vaucluse in Radionuclide_2
+60Co is present in Vaucluse in Radionuclide_2
+60Co is present in Vaucluse in Radionuclide_2
+60Co is present in Vaucluse in Radionuclide_2
+60Co is present in Vaucluse in Radionuclide_2
+60Co is present in Vaucluse in Radionuclide_2
+60Co is present in Vienne in Radionuclide_2
+60Co is present in Essonne in Radionuclide_3
+60Co is present in Essonne in Radionuclide_3
+60Co is present in Essonne in Radionuclide_3
+60Co is present in Hauts-de-Seine in Radionuclide_3
+60Co is present in Hérault in Radionuclide_3
+60Co is present in Ille-et-Vilaine in Radionuclide_3
+60Co is present in Loire-Atlantique in Radionuclide_3
+60Co is present in Loire-Atlantique in Radionuclide_3
+60Co is present in Loire-Atlantique in Radionuclide_3
+60Co is present in Loiret in Radionuclide_3
+60Co is present in Manche in Radionuclide_3
+60Co is present in Manche in Radionuclide_3
+60Co is present in Manche in Radionuclide_3
+60Co is present in Vaucluse in Radionuclide_3
+60Co is present in Vaucluse in Radionuclide_3
+60Co is present in Ain in Radionuclide_4
+60Co is present in Bas-Rhin in Radionuclide_4
+60Co is present in Calvados in Radionuclide_4
+60Co is present in Gard in Radionuclide_4
+60Co is present in Indre-et-Loire in Radionuclide_4
+60Co is present in Loire-Atlantique in Radionuclide_4
+60Co is present in Loire-Atlantique in Radionuclide_4
+60Co is present in Loire-Atlantique in Radionuclide_4
+60Co is present in Ain in Radionuclide_5
+60Co is present in Calvados in Radionuclide_5
+63Ni is present in Manche in Radionuclide_1
+63Ni is present in Essonne in Radionuclide_2
+63Ni is present in Essonne in Radionuclide_2
+63Ni is present in Gard in Radionuclide_2
+63Ni is present in Gard in Radionuclide_2
+63Ni is present in Manche in Radionuclide_2
+63Ni is present in Bouches-du-Rhône in Radionuclide_3
+63Ni is present in Essonne in Radionuclide_3
+63Ni is present in Gard in Radionuclide_3
+63Ni is present in Hauts-de-Seine in Radionuclide_3
+63Ni is present in Hauts-de-Seine in Radionuclide_3
+63Ni is present in Indre-et-Loire in Radionuclide_3
+63Ni is present in Loire-Atlantique in Radionuclide_3
+63Ni is present in Manche in Radionuclide_3
+63Ni is present in Rhône in Radionuclide_3
+63Ni is present in Rhône in Radionuclide_3
+63Ni is present in Vaucluse in Radionuclide_3
+63Ni is present in Essonne in Radionuclide_4
+63Ni is present in Hauts-de-Seine in Radionuclide_4
+63Ni is present in Ille-et-Vilaine in Radionuclide_4
+63Ni is present in Ille-et-Vilaine in Radionuclide_4
+63Ni is present in Loire-Atlantique in Radionuclide_4
+63Ni is present in Loire-Atlantique in Radionuclide_4
+63Ni is present in Manche in Radionuclide_4
+63Ni is present in Vaucluse in Radionuclide_4
+63Ni is present in Vaucluse in Radionuclide_4
+63Ni is present in Loire-Atlantique in Radionuclide_5
+63Ni is present in Ain in Radionuclide_6
+63Ni is present in Indre-et-Loire in Radionuclide_6
+63Ni is present in Loire-Atlantique in Radionuclide_6
+65Zn is present in Corrèze in Radionuclide_2
+65Zn is present in Essonne in Radionuclide_2
+65Zn is present in Loire-Atlantique in Radionuclide_2
+65Zn is present in Vaucluse in Radionuclide_2
+65Zn is present in Vaucluse in Radionuclide_2
+65Zn is present in Ain in Radionuclide_3
+65Zn is present in Ardennes in Radionuclide_3
+65Zn is present in Ardèche in Radionuclide_3
+65Zn is present in Aube in Radionuclide_3
+65Zn is present in Cher in Radionuclide_3
+65Zn is present in Drôme in Radionuclide_3
+65Zn is present in Essonne in Radionuclide_3
+65Zn is present in Gard in Radionuclide_3
+65Zn is present in Gard in Radionuclide_3
+65Zn is present in Gironde in Radionuclide_3
+65Zn is present in Haut-Rhin in Radionuclide_3
+65Zn is present in Indre-et-Loire in Radionuclide_3
+65Zn is present in Isère in Radionuclide_3
+65Zn is present in La Réunion in Radionuclide_3
+65Zn is present in Loir-et-Cher in Radionuclide_3
+65Zn is present in Loiret in Radionuclide_3
+65Zn is present in Manche in Radionuclide_3
+65Zn is present in Moselle in Radionuclide_3
+65Zn is present in Nord in Radionuclide_3
+65Zn is present in Seine-Maritime in Radionuclide_3
+65Zn is present in Tarn-et-Garonne in Radionuclide_3
+65Zn is present in Vaucluse in Radionuclide_3
+65Zn is present in Vienne in Radionuclide_3
+65Zn is present in Calvados in Radionuclide_4
+65Zn is present in Essonne in Radionuclide_4
+65Zn is present in Calvados in Radionuclide_5
+65Zn is present in Essonne in Radionuclide_5
+65Zn is present in Loiret in Radionuclide_5
+65Zn is present in Calvados in Radionuclide_6
+67Ga is present in Ardennes in Radionuclide_1
+67Ga is present in Aude in Radionuclide_1
+67Ga is present in Calvados in Radionuclide_1
+67Ga is present in Côtes-d'Armor in Radionuclide_1
+67Ga is present in Essonne in Radionuclide_1
+67Ga is present in Haute-Loire in Radionuclide_1
+67Ga is present in Hauts-de-Seine in Radionuclide_1
+67Ga is present in Lot-et-Garonne in Radionuclide_1
+67Ga is present in Martinique in Radionuclide_1
+67Ga is present in Nord in Radionuclide_1
+67Ga is present in Pas-de-Calais in Radionuclide_1
+67Ga is present in Saône-et-Loire in Radionuclide_1
+67Ga is present in Val-de-Marne in Radionuclide_1
+67Ga is present in Aisne in Radionuclide_2
+67Ga is present in Aisne in Radionuclide_2
+67Ga is present in Bas-Rhin in Radionuclide_2
+67Ga is present in Bouches-du-Rhône in Radionuclide_2
+67Ga is present in Charente-Maritime in Radionuclide_2
+67Ga is present in Gironde in Radionuclide_2
+67Ga is present in Loire in Radionuclide_2
+67Ga is present in Nord in Radionuclide_2
+67Ga is present in Nord in Radionuclide_2
+67Ga is present in Pas-de-Calais in Radionuclide_2
+67Ga is present in Pas-de-Calais in Radionuclide_2
+67Ga is present in Pyrénées-Atlantiques in Radionuclide_2
+67Ga is present in Somme in Radionuclide_2
+67Ga is present in Val-d'Oise in Radionuclide_2
+68Ga is present in Bouches-du-Rhône in Radionuclide_1
+68Ga is present in Côte-d'Or in Radionuclide_1
+68Ga is present in Haute-Garonne in Radionuclide_1
+68Ga is present in Finistère in Radionuclide_2
+68Ga is present in Gironde in Radionuclide_2
+68Ga is present in Hauts-de-Seine in Radionuclide_2
+68Ga is present in Hauts-de-Seine in Radionuclide_2
+68Ga is present in Hauts-de-Seine in Radionuclide_2
+68Ga is present in Indre-et-Loire in Radionuclide_2
+68Ga is present in Isère in Radionuclide_2
+68Ga is present in Loire in Radionuclide_2
+68Ga is present in Loire-Atlantique in Radionuclide_2
+68Ga is present in Meurthe-et-Moselle in Radionuclide_2
+68Ga is present in Paris in Radionuclide_2
+68Ga is present in Hauts-de-Seine in Radionuclide_3
+68Ge is present in Haute-Vienne in Radionuclide_1
+68Ge is present in Maine-et-Loire in Radionuclide_1
+68Ge is present in Monaco? in Radionuclide_1
+68Ge is present in Meurthe-et-Moselle in Radionuclide_2
+83Rb is present in Loire-Atlantique in Radionuclide_4
+83Rb is present in Loire-Atlantique in Radionuclide_6
+83Rb is present in Loire-Atlantique in Radionuclide_6
+85Kr is present in Gironde in Radionuclide_3
+85Sr is present in Loire-Atlantique in Radionuclide_1
+85Sr is present in Corrèze in Radionuclide_6
+90Sr is present in Finistère in Radionuclide_1
+90Sr is present in Haute-Vienne in Radionuclide_1
+90Sr is present in Hauts-de-Seine in Radionuclide_1
+90Sr is present in Ille-et-Vilaine in Radionuclide_1
+90Sr is present in Manche in Radionuclide_1
+90Sr is present in Manche in Radionuclide_1
+90Sr is present in Manche in Radionuclide_1
+90Sr is present in Manche in Radionuclide_1
+90Sr is present in Manche in Radionuclide_1
+90Sr is present in Monaco? in Radionuclide_1
+90Sr is present in Val-de-Marne in Radionuclide_1
+90Sr is present in Vaucluse in Radionuclide_1
+90Sr is present in Vaucluse in Radionuclide_1
+90Sr is present in Hauts-de-Seine in Radionuclide_2
+90Sr is present in Hauts-de-Seine in Radionuclide_2
+90Sr is present in Manche in Radionuclide_2
+90Sr is present in Manche in Radionuclide_2
+90Sr is present in Vaucluse in Radionuclide_2
+90Sr is present in Yvelines in Radionuclide_2
+90Sr is present in Essonne in Radionuclide_3
+90Sr is present in Essonne in Radionuclide_3
+90Sr is present in Essonne in Radionuclide_3
+90Sr is present in Gard in Radionuclide_3
+90Sr is present in Gard in Radionuclide_3
+90Sr is present in Hauts-de-Seine in Radionuclide_3
+90Sr is present in Manche in Radionuclide_3
+90Sr is present in Vaucluse in Radionuclide_3
+90Sr is present in Yvelines in Radionuclide_3
+90Sr is present in Yvelines in Radionuclide_3
+90Sr is present in Essonne in Radionuclide_4
+90Sr is present in Essonne in Radionuclide_4
+90Sr is present in Hauts-de-Seine in Radionuclide_4
+90Sr is present in Indre-et-Loire in Radionuclide_4
+90Sr is present in Manche in Radionuclide_4
+90Sr is present in Manche in Radionuclide_4
+90Sr is present in Ille-et-Vilaine in Radionuclide_5
+90Sr is present in Manche in Radionuclide_5
+90Sr is present in Vaucluse in Radionuclide_5
+90Y is present in Côte-d'Or in Radionuclide_5
+90Y is present in Gard in Radionuclide_5
+90Y is present in Gironde in Radionuclide_5
+90Y is present in Hauts-de-Seine in Radionuclide_5
+90Y is present in Loire-Atlantique in Radionuclide_5
+90Y is present in Nord in Radionuclide_5
+90Y is present in Seine-Maritime in Radionuclide_5
+90Y is present in Vienne in Radionuclide_5
+90Y is present in Alpes-Maritimes in Radionuclide_6
+90Y is present in Aube in Radionuclide_6
+90Y is present in Haute-Garonne in Radionuclide_6
+90Y is present in Haute-Vienne in Radionuclide_6
+90Y is present in Hauts-de-Seine in Radionuclide_6
+90Y is present in Hérault in Radionuclide_6
+90Y is present in Isère in Radionuclide_6
+90Y is present in Loire in Radionuclide_6
+90Y is present in Nord in Radionuclide_6
+90Y is present in Paris in Radionuclide_6
+90Y is present in Pyrénées-Orientales in Radionuclide_6
+90Y is present in Rhône in Radionuclide_6
+90Y is present in Var in Radionuclide_6
+90Y is present in Vaucluse in Radionuclide_6
+90Y is present in Vendée in Radionuclide_6
+95Zr is present in Vaucluse in Radionuclide_6
+99Mo is present in Haut-Rhin in Radionuclide_1
+99Mo is present in Sarthe in Radionuclide_1
+99Mo is present in Alpes-Maritimes in Radionuclide_2
+99Mo is present in Hérault in Radionuclide_2
+99Mo is present in Aisne in Radionuclide_3
+99Mo is present in Indre-et-Loire in Radionuclide_3
+99Mo is present in Somme in Radionuclide_3
+99Mo is present in Meurthe-et-Moselle in Radionuclide_4
+99Tc is present in Aude in Radionuclide_1
+99Tc is present in Hauts-de-Seine in Radionuclide_1
+99Tc is present in Nord in Radionuclide_1
+99Tc is present in Isère in Radionuclide_3
+99Tc is present in Loire-Atlantique in Radionuclide_3
+99Tc is present in Essonne in Radionuclide_4
+99Tc is present in Gard in Radionuclide_4
+99Tc is present in Loire-Atlantique in Radionuclide_4
+99Tc is present in Hauts-de-Seine in Radionuclide_5
+99Tc is present in Hauts-de-Seine in Radionuclide_5
+99Tc is present in Ille-et-Vilaine in Radionuclide_5
+99Tc is present in Loire-Atlantique in Radionuclide_5
+99mTc is present in Côte-d'Or in Radionuclide_4
+99mTc is present in Gard in Radionuclide_4
+99mTc is present in Gironde in Radionuclide_4
+99mTc is present in Nord in Radionuclide_4
+99mTc is present in Seine-Maritime in Radionuclide_4
+99mTc is present in Vienne in Radionuclide_4
+99mTc is present in Alpes-Maritimes in Radionuclide_5
+99mTc is present in Aube in Radionuclide_5
+99mTc is present in Bas-Rhin in Radionuclide_5
+99mTc is present in Bouches-du-Rhône in Radionuclide_5
+99mTc is present in Calvados in Radionuclide_5
+99mTc is present in Côte-d'Or in Radionuclide_5
+99mTc is present in Doubs in Radionuclide_5
+99mTc is present in Finistère in Radionuclide_5
+99mTc is present in Gironde in Radionuclide_5
+99mTc is present in Haute-Garonne in Radionuclide_5
+99mTc is present in Haute-Garonne in Radionuclide_5
+99mTc is present in Haute-Vienne in Radionuclide_5
+99mTc is present in Hauts-de-Seine in Radionuclide_5
+99mTc is present in Hérault in Radionuclide_5
+99mTc is present in Hérault in Radionuclide_5
+99mTc is present in Ille-et-Vilaine in Radionuclide_5
+99mTc is present in Indre-et-Loire in Radionuclide_5
+99mTc is present in Isère in Radionuclide_5
+99mTc is present in Isère in Radionuclide_5
+99mTc is present in Loire in Radionuclide_5
+99mTc is present in Loire-Atlantique in Radionuclide_5
+99mTc is present in Loire-Atlantique in Radionuclide_5
+99mTc is present in Meurthe-et-Moselle in Radionuclide_5
+99mTc is present in Monaco? in Radionuclide_5
+99mTc is present in Nord in Radionuclide_5
+99mTc is present in Paris in Radionuclide_5
+99mTc is present in Paris in Radionuclide_5
+99mTc is present in Paris in Radionuclide_5
+99mTc is present in Puy-de-Dôme in Radionuclide_5
+99mTc is present in Pyrénées-Orientales in Radionuclide_5
+99mTc is present in Rhône in Radionuclide_5
+99mTc is present in Rhône in Radionuclide_5
+99mTc is present in Val-de-Marne in Radionuclide_5
+99mTc is present in Var in Radionuclide_5
+99mTc is present in Vendée in Radionuclide_5
+99mTc is present in Aisne in Radionuclide_6
+99mTc is present in Aisne in Radionuclide_6
+99mTc is present in Ardennes in Radionuclide_6
+99mTc is present in Aude in Radionuclide_6
+99mTc is present in Bas-Rhin in Radionuclide_6
+99mTc is present in Bouches-du-Rhône in Radionuclide_6
+99mTc is present in Bouches-du-Rhône in Radionuclide_6
+99mTc is present in Calvados in Radionuclide_6
+99mTc is present in Charente-Maritime in Radionuclide_6
+99mTc is present in Côtes-d'Armor in Radionuclide_6
+99mTc is present in Drôme in Radionuclide_6
+99mTc is present in Essonne in Radionuclide_6
+99mTc is present in Gironde in Radionuclide_6
+99mTc is present in Haut-Rhin in Radionuclide_6
+99mTc is present in Haute-Loire in Radionuclide_6
+99mTc is present in Haute-Marne in Radionuclide_6
+99mTc is present in Hautes-Pyrénées in Radionuclide_6
+99mTc is present in Hauts-de-Seine in Radionuclide_6
+99mTc is present in Hauts-de-Seine in Radionuclide_6
+99mTc is present in Hauts-de-Seine in Radionuclide_6
+99mTc is present in Hérault in Radionuclide_6
+99mTc is present in Indre-et-Loire in Radionuclide_6
+99mTc is present in Isère in Radionuclide_6
+99mTc is present in Loire in Radionuclide_6
+99mTc is present in Loire in Radionuclide_6
+99mTc is present in Loiret in Radionuclide_6
+99mTc is present in Lot-et-Garonne in Radionuclide_6
+99mTc is present in Maine-et-Loire in Radionuclide_6
+99mTc is present in Marne in Radionuclide_6
+99mTc is present in Martinique in Radionuclide_6
+99mTc is present in Meurthe-et-Moselle in Radionuclide_6
+99mTc is present in Moselle in Radionuclide_6
+99mTc is present in Nièvre in Radionuclide_6
+99mTc is present in Nord in Radionuclide_6
+99mTc is present in Nord in Radionuclide_6
+99mTc is present in Nord in Radionuclide_6
+99mTc is present in Paris in Radionuclide_6
+99mTc is present in Pas-de-Calais in Radionuclide_6
+99mTc is present in Pas-de-Calais in Radionuclide_6
+99mTc is present in Pas-de-Calais in Radionuclide_6
+99mTc is present in Pyrénées-Atlantiques in Radionuclide_6
+99mTc is present in Sarthe in Radionuclide_6
+99mTc is present in Savoie in Radionuclide_6
+99mTc is present in Saône-et-Loire in Radionuclide_6
+99mTc is present in Seine-Saint-Denis in Radionuclide_6
+99mTc is present in Somme in Radionuclide_6
+99mTc is present in Somme in Radionuclide_6
+99mTc is present in Tarn in Radionuclide_6
+99mTc is present in Territoire de Belfort in Radionuclide_6
+99mTc is present in Val-d'Oise in Radionuclide_6
+99mTc is present in Val-de-Marne in Radionuclide_6
+99mTc is present in Val-de-Marne in Radionuclide_6
+99mTc is present in Yonne in Radionuclide_6
+99mTc is present in Yvelines in Radionuclide_6
+Am is present in Essonne in Radionuclide_3
+Am is present in Vaucluse in Radionuclide_4
+Am is present in Vaucluse in Radionuclide_4
+Am is present in Alpes-Maritimes in Radionuclide_5
+Am is present in Aude in Radionuclide_5
+Am is present in Corrèze in Radionuclide_5
+Am is present in Essonne in Radionuclide_5
+Am is present in Manche in Radionuclide_5
+Am is present in Vaucluse in Radionuclide_5
+Am is present in Vaucluse in Radionuclide_5
+Am is present in Vaucluse in Radionuclide_5
+Am is present in Yvelines in Radionuclide_5
+Am is present in Aude in Radionuclide_6
+Am is present in Bas-Rhin in Radionuclide_6
+Am is present in Essonne in Radionuclide_6
+Am is present in Essonne in Radionuclide_6
+Am is present in Gard in Radionuclide_6
+Am is present in Gard in Radionuclide_6
+Am is present in Haute-Garonne in Radionuclide_6
+Am is present in Hauts-de-Seine in Radionuclide_6
+Am is present in Hauts-de-Seine in Radionuclide_6
+Am is present in Hauts-de-Seine in Radionuclide_6
+Am is present in Hauts-de-Seine in Radionuclide_6
+Am is present in Ille-et-Vilaine in Radionuclide_6
+Am is present in Loire-Atlantique in Radionuclide_6
+Am is present in Manche in Radionuclide_6
+Am is present in Manche in Radionuclide_6
+Am is present in Manche in Radionuclide_6
+Am is present in Manche in Radionuclide_6
+Am is present in Manche in Radionuclide_6
+Am is present in Manche in Radionuclide_6
+Am is present in Paris in Radionuclide_6
+Am is present in Val-de-Marne in Radionuclide_6
+Am is present in Vaucluse in Radionuclide_6
+Am is present in Vaucluse in Radionuclide_6
+Am is present in Vaucluse in Radionuclide_6
+Am is present in Vaucluse in Radionuclide_6
+Am is present in Vaucluse in Radionuclide_6
+Am is present in Yvelines in Radionuclide_6
+Am is present in Yvelines in Radionuclide_6
+Pu is present in Manche in Radionuclide_1
+Pu is present in Manche in Radionuclide_2
+Pu is present in Manche in Radionuclide_2
+Pu is present in Vaucluse in Radionuclide_2
+Pu is present in Vaucluse in Radionuclide_2
+Pu is present in Gard in Radionuclide_3
+Pu is present in Manche in Radionuclide_3
+Pu is present in Manche in Radionuclide_3
+Pu is present in Manche in Radionuclide_3
+Pu is present in Manche in Radionuclide_3
+Pu is present in Manche in Radionuclide_3
+Pu is present in Vaucluse in Radionuclide_3
+Pu is present in Vaucluse in Radionuclide_3
+Pu is present in Vaucluse in Radionuclide_3
+Pu is present in Aude in Radionuclide_4
+Pu is present in Aude in Radionuclide_4
+Pu is present in Essonne in Radionuclide_4
+Pu is present in Gard in Radionuclide_4
+Pu is present in Manche in Radionuclide_4
+Pu is present in Manche in Radionuclide_4
+Pu is present in Manche in Radionuclide_4
+Pu is present in Manche in Radionuclide_4
+Pu is present in Manche in Radionuclide_4
+Pu is present in Val-de-Marne in Radionuclide_4
+Pu is present in Vaucluse in Radionuclide_4
+Pu is present in Vaucluse in Radionuclide_4
+Pu is present in Vaucluse in Radionuclide_4
+Pu is present in Yvelines in Radionuclide_4
+Pu is present in Alpes-Maritimes in Radionuclide_5
+Pu is present in Aude in Radionuclide_5
+Pu is present in Essonne in Radionuclide_5
+Pu is present in Essonne in Radionuclide_5
+Pu is present in Gard in Radionuclide_5
+Pu is present in Gard in Radionuclide_5
+Pu is present in Hauts-de-Seine in Radionuclide_5
+Pu is present in Ille-et-Vilaine in Radionuclide_5
+Pu is present in Ille-et-Vilaine in Radionuclide_5
+Pu is present in Manche in Radionuclide_5
+Pu is present in Manche in Radionuclide_5
+Pu is present in Manche in Radionuclide_5
+Pu is present in Manche in Radionuclide_5
+Pu is present in Manche in Radionuclide_5
+Pu is present in Manche in Radionuclide_5
+Pu is present in Val-de-Marne in Radionuclide_5
+Pu is present in Vaucluse in Radionuclide_5
+Pu is present in Vaucluse in Radionuclide_5
+Pu is present in Vaucluse in Radionuclide_5
+Pu is present in Vaucluse in Radionuclide_5
+Pu is present in Vaucluse in Radionuclide_5
+Pu is present in Vaucluse in Radionuclide_5
+Pu is present in Yvelines in Radionuclide_5
+Pu is present in Essonne in Radionuclide_6
+Pu is present in Haute-Vienne in Radionuclide_6
+Pu is present in Ille-et-Vilaine in Radionuclide_6
+Pu is present in Indre-et-Loire in Radionuclide_6
+Pu is present in Manche in Radionuclide_6
+Pu is present in Manche in Radionuclide_6
+Pu is present in Manche in Radionuclide_6
+Pu is present in Manche in Radionuclide_6
+Pu is present in Vaucluse in Radionuclide_6
+Pu is present in Vaucluse in Radionuclide_6
+Pu is present in Vaucluse in Radionuclide_6
+Pu is present in Vaucluse in Radionuclide_6
+Th is present in Aude in Radionuclide_3
+Th is present in Bas-Rhin in Radionuclide_3
+Th is present in Essonne in Radionuclide_3
+Th is present in Essonne in Radionuclide_3
+Th is present in Essonne in Radionuclide_3
+Th is present in Essonne in Radionuclide_3
+Th is present in Hauts-de-Seine in Radionuclide_3
+Th is present in Rhône in Radionuclide_3
+Th is present in Yvelines in Radionuclide_3
+Th is present in Alpes-Maritimes in Radionuclide_4
+Th is present in Alpes-Maritimes in Radionuclide_4
+Th is present in Essonne in Radionuclide_4
+Th is present in Monaco? in Radionuclide_4
+Th is present in Paris in Radionuclide_4
+Th is present in Paris in Radionuclide_4
+Th is present in Rhône in Radionuclide_4
+Th is present in Rhône in Radionuclide_4
+Th is present in Yvelines in Radionuclide_4
+Th is present in Bouches-du-Rhône in Radionuclide_5
+Th is present in Gironde in Radionuclide_5
+Th is present in Haute-Garonne in Radionuclide_5
+Th is present in Hauts-de-Seine in Radionuclide_5
+Th is present in Hauts-de-Seine in Radionuclide_5
+Th is present in Rhône in Radionuclide_5
+Th is present in Yvelines in Radionuclide_5
+Th is present in Aude in Radionuclide_6
+Th is present in Essonne in Radionuclide_6
+Th is present in Essonne in Radionuclide_6
+Th is present in Hauts-de-Seine in Radionuclide_6
+Th is present in Loiret in Radionuclide_6
+Th is present in Yvelines in Radionuclide_6
+U is present in Aude in Radionuclide_1
+U is present in Gard in Radionuclide_1
+U is present in Aude in Radionuclide_2
+U is present in Gard in Radionuclide_2
+U is present in Rhône in Radionuclide_3
+U is present in Aude in Radionuclide_4
+U is present in Bas-Rhin in Radionuclide_4
+U is present in Essonne in Radionuclide_4
+U is present in Essonne in Radionuclide_4
+U is present in Essonne in Radionuclide_4
+U is present in Finistère in Radionuclide_4
+U is present in Haute-Garonne in Radionuclide_4
+U is present in Hauts-de-Seine in Radionuclide_4
+U is present in Ille-et-Vilaine in Radionuclide_4
+U is present in Rhône in Radionuclide_4
+U is present in Rhône in Radionuclide_4
+U is present in Rhône in Radionuclide_4
+U is present in Yvelines in Radionuclide_4
+U is present in Aude in Radionuclide_5
+U is present in Bas-Rhin in Radionuclide_5
+U is present in Essonne in Radionuclide_5
+U is present in Essonne in Radionuclide_5
+U is present in Essonne in Radionuclide_5
+U is present in Essonne in Radionuclide_5
+U is present in Essonne in Radionuclide_5
+U is present in Essonne in Radionuclide_5
+U is present in Finistère in Radionuclide_5
+U is present in Haute-Vienne in Radionuclide_5
+U is present in Hauts-de-Seine in Radionuclide_5
+U is present in Loire-Atlantique in Radionuclide_5
+U is present in Monaco? in Radionuclide_5
+U is present in Paris in Radionuclide_5
+U is present in Paris in Radionuclide_5
+U is present in Rhône in Radionuclide_5
+U is present in Rhône in Radionuclide_5
+U is present in Rhône in Radionuclide_5
+U is present in Rhône in Radionuclide_5
+U is present in Rhône in Radionuclide_5
+U is present in Val-de-Marne in Radionuclide_5
+U is present in Vaucluse in Radionuclide_5
+U is present in Vaucluse in Radionuclide_5
+U is present in Vaucluse in Radionuclide_5
+U is present in Vaucluse in Radionuclide_5
+U is present in Yvelines in Radionuclide_5
+U is present in Alpes-Maritimes in Radionuclide_6
+U is present in Alpes-Maritimes in Radionuclide_6
+U is present in Essonne in Radionuclide_6
+U is present in Essonne in Radionuclide_6
+U is present in Hauts-de-Seine in Radionuclide_6
+U is present in Hauts-de-Seine in Radionuclide_6
+U is present in Hauts-de-Seine in Radionuclide_6
+U is present in Loire-Atlantique in Radionuclide_6
+U is present in Paris in Radionuclide_6
+U is present in Rhône in Radionuclide_6
+U is present in Rhône in Radionuclide_6
+U is present in Rhône in Radionuclide_6
+U is present in Rhône in Radionuclide_6
+U is present in Rhône in Radionuclide_6
+U is present in Val-de-Marne in Radionuclide_6
