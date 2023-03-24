@@ -1,0 +1,1365 @@
+{
+    "nodes": [
+      {
+        "id": "Ain",
+        "name": "Ain"
+      },
+      {
+        "id": "Aisne",
+        "name": "Aisne"
+      },
+      {
+        "id": "Alpes-Maritimes",
+        "name": "Alpes-Maritimes"
+      },
+      {
+        "id": "Ardennes",
+        "name": "Ardennes"
+      },
+      {
+        "id": "Ardèche",
+        "name": "Ardèche"
+      },
+      {
+        "id": "Aube",
+        "name": "Aube"
+      },
+      {
+        "id": "Aude",
+        "name": "Aude"
+      },
+      {
+        "id": "Bas-Rhin",
+        "name": "Bas-Rhin"
+      },
+      {
+        "id": "Bouches-du-Rhône",
+        "name": "Bouches-du-Rhône"
+      },
+      {
+        "id": "Calvados",
+        "name": "Calvados"
+      },
+      {
+        "id": "Charente-Maritime",
+        "name": "Charente-Maritime"
+      },
+      {
+        "id": "Aisne",
+        "name": "Aisne"
+      },
+      {
+        "id": "Alpes-Maritimes",
+        "name": "Alpes-Maritimes"
+      },
+      {
+        "id": "Cher",
+        "name": "Cher"
+      },
+      {
+        "id": "Corrèze",
+        "name": "Corrèze"
+      },
+      {
+        "id": "Côte-d'Or",
+        "name": "Côte-d'Or"
+      },
+      {
+        "id": "Côte-d'Or",
+        "name": "Côte-d'Or"
+      },
+      {
+        "id": "Doubs",
+        "name": "Doubs"
+      },
+      {
+        "id": "Drôme",
+        "name": "Drôme"
+      },
+      {
+        "id": "Essonne",
+        "name": "Essonne"
+      },
+      {
+        "id": "Finistère",
+        "name": "Finistère"
+      },
+      {
+        "id": "Gard",
+        "name": "Gard"
+      },
+      {
+        "id": "Gironde",
+        "name": "Gironde"
+      },
+      {
+        "id": "Haut-Rhin",
+        "name": "Haut-Rhin"
+      },
+      {
+        "id": "Haute-Garonne",
+        "name": "Haute-Garonne"
+      },
+      {
+        "id": "Haute-Loire",
+        "name": "Haute-Loire"
+      },
+      {
+        "id": "Haute-Marne",
+        "name": "Haute-Marne"
+      },
+      {
+        "id": "Haute-Vienne",
+        "name": "DrômHaute-Viennee"
+      },
+      {
+        "id": "Hautes-Pyrénées",
+        "name": "Hautes-Pyrénées"
+      },
+      {
+        "id": "Hauts-de-Seine",
+        "name": "Hauts-de-Seine"
+      },
+      {
+        "id": "Hérault",
+        "name": "Hérault"
+      },
+      {
+        "id": "Ille-et-Vilaine",
+        "name": "Ille-et-Vilaine"
+      },
+      {
+        "id": "Indre-et-Loire",
+        "name": "Indre-et-Loire"
+      },
+      {
+        "id": "Isère",
+        "name": "Isère"
+      },
+      {
+        "id": "La Réunion",
+        "name": "La Réunion"
+      },
+      {
+        "id": "Loir-et-Cher",
+        "name": "Loir-et-Cher"
+      },
+      {
+        "id": "Loire",
+        "name": "Loire"
+      },
+      {
+        "id": "Loire-Atlantique",
+        "name": "Loire-Atlantique"
+      },
+      {
+        "id": "Loiret",
+        "name": "Loiret"
+      },
+      {
+        "id": "Lot-et-Garonne",
+        "name": "Lot-et-Garonne"
+      },
+      {
+        "id": "Maine-et-Loire",
+        "name": "Maine-et-Loire"
+      },
+      {
+        "id": "Manche",
+        "name": "Manche"
+      },
+      {
+        "id": "Marne",
+        "name": "Marne"
+      },
+      {
+        "id": "Martinique",
+        "name": "Martinique"
+      },
+      {
+        "id": "Meurthe-et-Moselle",
+        "name": "Meurthe-et-Moselle"
+      },
+      {
+        "id": "Monaco",
+        "name": "Monaco"
+      },
+      {
+        "id": "Moselle",
+        "name": "Moselle"
+      },
+      {
+        "id": "Nièvre",
+        "name": "Nièvre"
+      },
+      {
+        "id": "Nord",
+        "name": "Nord"
+      },
+      {
+        "id": "Paris",
+        "name": "Paris"
+      },
+      {
+        "id": "Pas-de-Calais",
+        "name": "Pas-de-Calais"
+      },
+      {
+        "id": "Puy-de-Dôme",
+        "name": "Puy-de-Dôme"
+      },
+      {
+        "id": "Pyrénées-Atlantiques",
+        "name": "Pyrénées-Atlantiques"
+      },
+      {
+        "id": "Pyrénées-Orientales",
+        "name": "Pyrénées-Orientales"
+      },
+      {
+        "id": "Rhône",
+        "name": "Rhône"
+      },
+      {
+        "id": "Sarthe",
+        "name": "Sarthe"
+      },
+      {
+        "id": "Savoie",
+        "name": "Savoie"
+      },
+      {
+        "id": "Saône-et-Loire",
+        "name": "Saône-et-Loire"
+      },
+      {
+        "id": "Seine-Maritime",
+        "name": "Seine-Maritime"
+      },
+      {
+        "id": "Seine-Saint-Denis",
+        "name": "Seine-Saint-Denis"
+      },
+      {
+        "id": "Somme",
+        "name": "Somme"
+      },
+      {
+        "id": "Tarn",
+        "name": "Tarn"
+      },
+      {
+        "id": "Tarn-et-Garonne",
+        "name": "Tarn-et-Garonne"
+      },
+      {
+        "id": "Territoire de Belfort",
+        "name": "Territoire de Belfort"
+      },
+      {
+        "id": "Val-d'Oise",
+        "name": "Val-d'Oise"
+      },
+      {
+        "id": "Val-de-Marne",
+        "name": "Val-de-Marne"
+      },
+      {
+        "id": "Var",
+        "name": "Var"
+      },
+      {
+        "id": "Vaucluse",
+        "name": "Vaucluse"
+      },
+      {
+        "id": "Vendée",
+        "name": "Vendée"
+      },
+      {
+        "id": "Vienne",
+        "name": "Vienne"
+      },
+      {
+        "id": "Yonne",
+        "name": "Yonne"
+      },
+      {
+        "id": "Yvelines",
+        "name": "Yvelines"
+      },
+      {
+        "id": "106Rh",
+        "name": "106Rh"
+      },
+      {
+        "id": "106Ru",
+        "name": "106Ru"
+      },
+      {
+        "id": "108mAg",
+        "name": "108mAg"
+      },
+      {
+        "id": "109Cd",
+        "name": "109Cd"
+      },
+      {
+        "id": "110mAg",
+        "name": "110mAg"
+      },
+      {
+        "id": "122Sb",
+        "name": "122Sb"
+      },
+      {
+        "id": "124Sb",
+        "name": "124Sb"
+      },
+      {
+        "id": "125I",
+        "name": "125I"
+      },
+      {
+        "id": "125Sb",
+        "name": "125Sb"
+      },
+      {
+        "id": "129I",
+        "name": "129I"
+      },
+      {
+        "id": "131I",
+        "name": "131I"
+      },
+      {
+        "id": "133Ba",
+        "name": "133Ba"
+      },
+      {
+        "id": "134Cs",
+        "name": "134Cs"
+      },
+      {
+        "id": "137Cs",
+        "name": "137Cs"
+      },
+      {
+        "id": "141Ce",
+        "name": "141Ce"
+      },
+      {
+        "id": "147Pm",
+        "name": "147Pm"
+      },
+      {
+        "id": "14C",
+        "name": "14C"
+      },
+      {
+        "id": "151Sm",
+        "name": "151Sm"
+      },
+      {
+        "id": "152Eu",
+        "name": "152Eu"
+      },
+      {
+        "id": "153Gd",
+        "name": "153Gd"
+      },
+      {
+        "id": "154Eu",
+        "name": "154Eu"
+      },
+      {
+        "id": "155Eu",
+        "name": "155Eu"
+      },
+      {
+        "id": "181W",
+        "name": "181W"
+      },
+      {
+        "id": "182Ta",
+        "name": "182Ta"
+      },
+      {
+        "id": "183Re",
+        "name": "183Re"
+      },
+      {
+        "id": "18F",
+        "name": "18F"
+      },
+      {
+        "id": "198Au",
+        "name": "198Au"
+      },
+      {
+        "id": "204Tl",
+        "name": "204Tl"
+      },
+      {
+        "id": "208Po",
+        "name": "208Po"
+      },
+      {
+        "id": "209Po",
+        "name": "209Po"
+      },
+      {
+        "id": "210Pb",
+        "name": "210Pb"
+      },
+      {
+        "id": "210Po",
+        "name": "210Po"
+      },
+      {
+        "id": "213Bi",
+        "name": "213Bi"
+      },
+      {
+        "id": "226Ra",
+        "name": "226Ra"
+      },
+      {
+        "id": "227Ac",
+        "name": "227Ac"
+      },
+      {
+        "id": "227Th",
+        "name": "227Th"
+      },
+      {
+        "id": "228Ra",
+        "name": "228Ra"
+      },
+      {
+        "id": "228Th",
+        "name": "228Th"
+      },
+      {
+        "id": "229Th",
+        "name": "229Th"
+      },
+      {
+        "id": "22Na",
+        "name": "22Na"
+      },
+      {
+        "id": "230Th",
+        "name": "230Th"
+      },
+      {
+        "id": "231Pa",
+        "name": "231Pa"
+      },
+      {
+        "id": "232Th",
+        "name": "232Th"
+      },
+      {
+        "id": "232U",
+        "name": "232U"
+      },
+      {
+        "id": "233U",
+        "name": "233U"
+      },
+      {
+        "id": "234U",
+        "name": "234U"
+      },
+      {
+        "id": "235U",
+        "name": "235U"
+      },
+      {
+        "id": "237Np",
+        "name": "237Np"
+      },
+      {
+        "id": "238Pu",
+        "name": "238Pu"
+      },
+      {
+        "id": "238U",
+        "name": "238U"
+      },
+      {
+        "id": "239Pu",
+        "name": "239Pu"
+      },
+      {
+        "id": "240Pu",
+        "name": "240Pu"
+      },
+      {
+        "id": "241Am",
+        "name": "241Am"
+      },
+      {
+        "id": "241Pu",
+        "name": "241Pu"
+      },
+      {
+        "id": "242Pu",
+        "name": "242Pu"
+      },
+      {
+        "id": "243Am",
+        "name": "243Am"
+      },
+      {
+        "id": "244Cm",
+        "name": "244Cm"
+      },
+      {
+        "id": "249Cf",
+        "name": "249Cf"
+      },
+      {
+        "id": "252Cf",
+        "name": "252Cf"
+      },
+      {
+        "id": "36Cl",
+        "name": "36Cl"
+      },
+      {
+        "id": "40K",
+        "name": "40K"
+      },
+      {
+        "id": "41Ca",
+        "name": "41Ca"
+      },
+      {
+        "id": "44Ti",
+        "name": "44Ti"
+      },
+      {
+        "id": "45Ca",
+        "name": "45Ca"
+      },
+      {
+        "id": "46Sc",
+        "name": "46Sc"
+      },
+      {
+        "id": "51Cr",
+        "name": "51Cr"
+      },
+      {
+        "id": "52Mn",
+        "name": "52Mn"
+      },
+      {
+        "id": "53Mn",
+        "name": "53Mn"
+      },
+      {
+        "id": "55Fe",
+        "name": "55Fe"
+      },
+      {
+        "id": "56Co",
+        "name": "56Co"
+      },
+      {
+        "id": "57Co",
+        "name": "57Co"
+      },
+      {
+        "id": "58Co",
+        "name": "58Co"
+      },
+      {
+        "id": "59Fe",
+        "name": "59Fe"
+      },
+      {
+        "id": "59Ni",
+        "name": "59Ni"
+      },
+      {
+        "id": "60Co",
+        "name": "60Co"
+      },
+      {
+        "id": "63Ni",
+        "name": "63Ni"
+      },
+      {
+        "id": "65Zn",
+        "name": "65Zn"
+      },
+      {
+        "id": "83Rb",
+        "name": "83Rb"
+      },
+      {
+        "id": "85Kr",
+        "name": "85Kr"
+      },
+      {
+        "id": "85Sr",
+        "name": "85Sr"
+      },
+      {
+        "id": "88Y",
+        "name": "88Y"
+      },
+      {
+        "id": "90Sr",
+        "name": "90Sr"
+      },
+      {
+        "id": "90Y",
+        "name": "90Y"
+      },
+      {
+        "id": "95Zr",
+        "name": "95Zr"
+      },
+      {
+        "id": "99Tc",
+        "name": "99Tc"
+      },
+      {
+        "id": "99mTc",
+        "name": "99mTc"
+      },
+      {
+        "id": "Am",
+        "name": "Am"
+      },
+      {
+        "id": "Po",
+        "name": "Po"
+      },
+      {
+        "id": "Pu",
+        "name": "Pu"
+      },
+      {
+        "id": "Th",
+        "name": "Th"
+      },
+      {
+        "id": "U",
+        "name": "U"
+      },
+      {
+        "id": "106Ru",
+        "name": "106Ru"
+      },
+      {
+        "id": "109Cd",
+        "name": "109Cd"
+      },
+      {
+        "id": "10Be",
+        "name": "10Be"
+      },
+      {
+        "id": "111In",
+        "name": "111In"
+      },
+      {
+        "id": "123I",
+        "name": "123I"
+      },
+      {
+        "id": "125I",
+        "name": "125I"
+      },
+      {
+        "id": "125Sb",
+        "name": "125Sb"
+      },
+      {
+        "id": "129I",
+        "name": "129I"
+      },
+      {
+        "id": "131I",
+        "name": "131I"
+      },
+      {
+        "id": "133Ba",
+        "name": "133Ba"
+      },
+      {
+        "id": "134Cs",
+        "name": "134Cs"
+      },
+      {
+        "id": "137Cs",
+        "name": "137Cs"
+      },
+      {
+        "id": "141Ce",
+        "name": "141Ce"
+      },
+      {
+        "id": "147Pm",
+        "name": "147Pm"
+      },
+      {
+        "id": "14C",
+        "name": "14C"
+      },
+      {
+        "id": "151Sm",
+        "name": "151Sm"
+      },
+      {
+        "id": "152Eu",
+        "name": "152Eu"
+      },
+      {
+        "id": "153Sm",
+        "name": "153Sm"
+      },
+      {
+        "id": "154Eu",
+        "name": "154Eu"
+      },
+      {
+        "id": "155Eu",
+        "name": "155Eu"
+      },
+      {
+        "id": "169Er",
+        "name": "169Er"
+      },
+      {
+        "id": "177Lu",
+        "name": "177Lu"
+      },
+      {
+        "id": "182Ta",
+        "name": "182Ta"
+      },
+      {
+        "id": "186Re",
+        "name": "186Re"
+      },
+      {
+        "id": "18F",
+        "name": "18F"
+      },
+      {
+        "id": "198Au",
+        "name": "198Au"
+      },
+      {
+        "id": "201Tl",
+        "name": "201Tl"
+      },
+      {
+        "id": "204Tl",
+        "name": "204Tl"
+      },
+      {
+        "id": "208Po",
+        "name": "208Po"
+      },
+      {
+        "id": "210Pb",
+        "name": "210Pb"
+      },
+      {
+        "id": "210Po",
+        "name": "210Po"
+      },
+      {
+        "id": "225Ac",
+        "name": "225Ac"
+      },
+      {
+        "id": "226Ra",
+        "name": "226Ra"
+      },
+      {
+        "id": "227Ac",
+        "name": "227Ac"
+      },
+      {
+        "id": "227Th",
+        "name": "227Th"
+      },
+      {
+        "id": "228Ra",
+        "name": "228Ra"
+      },
+      {
+        "id": "228Th",
+        "name": "228Th"
+      },
+      {
+        "id": "229Th",
+        "name": "229Th"
+      },
+      {
+        "id": "22Na",
+        "name": "22Na"
+      },
+      {
+        "id": "230Th",
+        "name": "230Th"
+      },
+      {
+        "id": "232Th",
+        "name": "232Th"
+      },
+      {
+        "id": "232U",
+        "name": "232U"
+      },
+      {
+        "id": "233U",
+        "name": "233U"
+      },
+      {
+        "id": "234U",
+        "name": "234U"
+      },
+      {
+        "id": "235U",
+        "name": "235U"
+      },
+      {
+        "id": "237Np",
+        "name": "237Np"
+      },
+      {
+        "id": "238Pu",
+        "name": "238Pu"
+      },
+      {
+        "id": "238U",
+        "name": "238U"
+      },
+      {
+        "id": "239Pu",
+        "name": "239Pu"
+      },
+      {
+        "id": "240Pu",
+        "name": "240Pu"
+      },
+      {
+        "id": "241Am",
+        "name": "241Am"
+      },
+      {
+        "id": "241Pu",
+        "name": "241Pu"
+      },
+      {
+        "id": "242Pu",
+        "name": "242Pu"
+      },
+      {
+        "id": "244Cm",
+        "name": "244Cm"
+      },
+      {
+        "id": "32P",
+        "name": "32P"
+      },
+      {
+        "id": "36Cl",
+        "name": "36Cl"
+      },
+      {
+        "id": "3H",
+        "name": "3H"
+      },
+      {
+        "id": "40K",
+        "name": "40K"
+      },
+      {
+        "id": "44Ti",
+        "name": "44Ti"
+      },
+      {
+        "id": "46Sc",
+        "name": "46Sc"
+      },
+      {
+        "id": "51Cr",
+        "name": "51Cr"
+      },
+      {
+        "id": "52Mn",
+        "name": "52Mn"
+      },
+
+      {
+        "id": "55Fe",
+        "name": "55Fe"
+      },
+      {
+        "id": "56Co",
+        "name": "56Co"
+      },
+      {
+        "id": "57Co",
+        "name": "57Co"
+      },
+      {
+        "id": "58Co",
+        "name": "58Co"
+      },
+      {
+        "id": "59Fe",
+        "name": "59Fe"
+      },
+      {
+        "id": "60Co",
+        "name": "60Co"
+      },
+      {
+        "id": "63Ni",
+        "name": "63Ni"
+      },
+      {
+        "id": "65Zn",
+        "name": "65Zn"
+      },
+      {
+        "id": "67Ga",
+        "name": "67Ga"
+      },
+      {
+        "id": "68Ga",
+        "name": "68Ga"
+      },
+      {
+        "id": "68Ge",
+        "name": "68Ge"
+      },
+      {
+        "id": "83Rb",
+        "name": "83Rb"
+      },
+      {
+        "id": "85Kr",
+        "name": "85Kr"
+      },
+      {
+        "id": "85Sr",
+        "name": "85Sr"
+      },
+      {
+        "id": "90Sr",
+        "name": "90Sr"
+      },
+      {
+        "id": "90Y",
+        "name": "90Y"
+      },
+      {
+        "id": "95Zr",
+        "name": "95Zr"
+      },
+      {
+        "id": "99Mo",
+        "name": "99Mo"
+      },
+      {
+        "id": "99Tc",
+        "name": "99Tc"
+      },
+      {
+        "id": "99mTc",
+        "name": "99mTc"
+      },
+      {
+        "id": "Am",
+        "name": "Am"
+      },
+      {
+        "id": "Pu",
+        "name": "Pu"
+      },
+      {
+        "id": "Th",
+        "name": "Th"
+      },
+      {
+        "id": "U",
+        "name": "U"
+        }
+    ],
+      
+  "links": [
+      {
+          "source": "Ain",
+          "target": "154Eu"
+        },
+        {
+          "source": "Ain",
+          "target": "58Co"
+        },
+        {
+          "source": "Ain",
+          "target": "44Ti"
+        },
+        {
+          "source": "Ain",
+          "target": "22Na"
+        },
+        {
+          "source": "Ain",
+          "target": "152Eu"
+        },
+        {
+          "source": "Ain",
+          "target": "63Ni"
+        },
+        {
+          "source": "Ain",
+          "target": "110mAg"
+        },
+        {
+          "source": "Ain",
+          "target": "56Co"
+        },
+        {
+          "source": "Ain",
+          "target": "57Co"
+        },
+        {
+          "source": "Ain",
+          "target": "137Cs"
+        },
+        {
+          "source": "Ain",
+          "target": "55Fe"
+        },
+        {
+          "source": "Ain",
+          "target": "18F"
+        },
+        {
+          "source": "Ain",
+          "target": "51Cr"
+        },
+        {
+          "source": "Ain",
+          "target": "60Co"
+        },
+        {
+          "source": "Ain",
+          "target": "65Zn"
+        },
+        {
+          "source": "Ain",
+          "target": "3H"
+        },
+        {
+          "source": "Aisne",
+          "target": "111In"
+        },
+        {
+          "source": "Aisne",
+          "target": "18F"
+        },
+        {
+          "source": "Aisne",
+          "target": "123I"
+        },
+        {
+          "source": "Aisne",
+          "target": "99Mo"
+        },
+        {
+          "source": "Aisne",
+          "target": "201Tl"
+        },
+        {
+          "source": "Aisne",
+          "target": "67Ga"
+        },
+        {
+          "source": "Aisne",
+          "target": "99mTc"
+        },
+        {
+          "source": "Alpes-Maritimes",
+          "target": "90Y"
+        },
+        {
+          "source": "Alpes-Maritimes",
+          "target": "18F"
+        },
+        {
+          "source": "Alpes-Maritimes",
+          "target": "232Th"
+        },
+        {
+          "source": "Alpes-Maritimes",
+          "target": "123I"
+        },
+        {
+          "source": "Alpes-Maritimes",
+          "target": "60Co"
+        },
+        {
+          "source": "Alpes-Maritimes",
+          "target": "99Mo"
+        },
+        {
+          "source": "Alpes-Maritimes",
+          "target": "152Eu"
+        },
+        {
+          "source": "Alpes-Maritimes",
+          "target": "U"
+        },
+        {
+          "source": "Alpes-Maritimes",
+          "target": "137Cs"
+        },
+        {
+          "source": "Alpes-Maritimes",
+          "target": "239Pu"
+        },
+        {
+          "source": "Alpes-Maritimes",
+          "target": "209Po"
+        },
+        {
+          "source": "Alpes-Maritimes",
+          "target": "169Er"
+        },
+        {
+          "source": "Alpes-Maritimes",
+          "target": "99mTc"
+        },
+        {
+          "source": "Alpes-Maritimes",
+          "target": "241Am"
+        },
+        {
+          "source": "Ardennes",
+          "target": "131I"
+        },
+        {
+          "source": "Ardennes",
+          "target": "58Co"
+        },
+        {
+          "source": "Ardennes",
+          "target": "111In"
+        },
+        {
+          "source": "Ardennes",
+          "target": "123I"
+        },
+        {
+          "source": "Ardennes",
+          "target": "201Tl"
+        },
+        {
+          "source": "Ardennes",
+          "target": "110mAg"
+        },
+        {
+          "source": "Ardennes",
+          "target": "67Ga"
+        },
+        {
+          "source": "Ardennes",
+          "target": "137Cs"
+        },
+        {
+          "source": "Ardennes",
+          "target": "60Co"
+        },
+        {
+          "source": "Ardennes",
+          "target": "65Zn"
+        },
+        {
+          "source": "Ardennes",
+          "target": "99mTc"
+        },
+        {
+          "source": "Ardèche",
+          "target": "58Co"
+        },
+        {
+          "source": "Ardèche",
+          "target": "110mAg"
+        },
+        {
+          "source": "Ardèche",
+          "target": "137Cs"
+        },
+        {
+          "source": "Ardèche",
+          "target": "60Co"
+        },
+        {
+          "source": "Ardèche",
+          "target": "65Zn"
+        },
+        {
+          "source": "Aube",
+          "target": "90Y"
+        },
+        {
+          "source": "Aube",
+          "target": "131I"
+        },
+        {
+          "source": "Aube",
+          "target": "58Co"
+        },
+        {
+          "source": "Aube",
+          "target": "111In"
+        },
+        {
+          "source": "Aube",
+          "target": "18F"
+        },
+        {
+          "source": "Aube",
+          "target": "123I"
+        },
+        {
+          "source": "Aube",
+          "target": "56Co"
+        },
+        {
+          "source": "Aube",
+          "target": "110mAg"
+        },
+        {
+          "source": "Aube",
+          "target": "57Co"
+        },
+        {
+          "source": "Aube",
+          "target": "137Cs"
+        },
+        {
+          "source": "Aube",
+          "target": "51Cr"
+        },
+        {
+          "source": "Aube",
+          "target": "60Co"
+        },
+        {
+          "source": "Aube",
+          "target": "65Zn"
+        },
+        {
+          "source": "Aube",
+          "target": "99mTc"
+        },
+        {
+          "source": "Aude",
+          "target": "111In"
+        },
+        {
+          "source": "Aude",
+          "target": "232Th"
+        },
+        {
+          "source": "Aude",
+          "target": "201Tl"
+        },
+        {
+          "source": "Aude",
+          "target": "235U"
+        },
+        {
+          "source": "Aude",
+          "target": "99Tc"
+        },
+        {
+          "source": "Aude",
+          "target": "242Pu"
+        },
+        {
+          "source": "Aude",
+          "target": "131I"
+        },
+        {
+          "source": "Aude",
+          "target": "237Np"
+        },
+        {
+          "source": "Aude",
+          "target": "99mTc"
+        },
+        {
+          "source": "Aude",
+          "target": "110mAg"
+        },
+        {
+          "source": "Aude",
+          "target": "234U"
+        },
+        {
+          "source": "Aude",
+          "target": "67Ga"
+        },
+        {
+          "source": "Aude",
+          "target": "239Pu"
+        },
+        {
+          "source": "Aude",
+          "target": "227Th"
+        },
+        {
+          "source": "Aude",
+          "target": "238U"
+        },
+        {
+          "source": "Aude",
+          "target": "243Am"
+        },
+        {
+          "source": "Aude",
+          "target": "241Am"
+        },
+        {
+          "source": "Aude",
+          "target": "226Ra"
+        },
+        {
+          "source": "Aude",
+          "target": "58Co"
+        },
+        {
+          "source": "Aude",
+          "target": "123I"
+        },
+        {
+          "source": "Aude",
+          "target": "60Co"
+        },
+        {
+          "source": "Aude",
+          "target": "241Pu"
+        },
+        {"source": "Aude", "target": "137Cs"},  {"source": "Bas-Rhin", "target": "111In"},  {"source": "Bas-Rhin", "target": "18F"},  {"source": "Bas-Rhin", "target": "232Th"},    {"source": "Bas-Rhin", "target": "201Tl"},  {"source": "Bas-Rhin", "target": "137Cs"},  {"source": "Bas-Rhin", "target": "41Ca"},  {"source": "Bas-Rhin", "target": "55Fe"},  {"source": "Bas-Rhin", "target": "131I"},  {"source": "Bas-Rhin", "target": "52Mn"},  {"source": "Bas-Rhin", "target": "88Y"},  {"source": "Bas-Rhin", "target": "99mTc"},  {"source": "Bas-Rhin", "target": "152Eu"},  {"source": "Bas-Rhin", "target": "235U"},  {"source": "Bas-Rhin", "target": "67Ga"},  {"source": "Bas-Rhin", "target": "57Co"},  {"source": "Bas-Rhin", "target": "238U"},  {"source": "Bas-Rhin", "target": "3H"},  {"source": "Bas-Rhin", "target": "133Ba"},  {"source": "Bas-Rhin", "target": "241Am"},  {"source": "Bas-Rhin", "target": "58Co"},  {"source": "Bas-Rhin", "target": "123I"},  {"source": "Bas-Rhin", "target": "56Co"},  {"source": "Bas-Rhin", "target": "177Lu"},  {"source": "Bas-Rhin", "target": "60Co"},
+        {    "source": "Bouches-du-Rhône",    "target": "111In"  },  {    "source": "Bouches-du-Rhône",    "target": "18F"  },  {    "source": "Bouches-du-Rhône",    "target": "63Ni"  },  {    "source": "Bouches-du-Rhône",    "target": "201Tl"  },  {    "source": "Bouches-du-Rhône",    "target": "228Ra"  },  {    "source": "Bouches-du-Rhône",    "target": "55Fe"  },  {    "source": "Bouches-du-Rhône",    "target": "131I"  },  {    "source": "Bouches-du-Rhône",    "target": "213Bi"  },  {    "source": "Bouches-du-Rhône",    "target": "99mTc"  },  {    "source": "Bouches-du-Rhône",    "target": "110mAg"  },  {    "source": "Bouches-du-Rhône",    "target": "204Tl"  },  {    "source": "Bouches-du-Rhône",    "target": "67Ga"  },  {    "source": "Bouches-du-Rhône",    "target": "68Ga"  },  {    "source": "Bouches-du-Rhône",    "target": "58Co"  },  {    "source": "Bouches-du-Rhône",    "target": "123I"  },  {    "source": "Bouches-du-Rhône",    "target": "177Lu"  },  {    "source": "Bouches-du-Rhône",    "target": "137Cs"  },  {    "source": "Bouches-du-Rhône",    "target": "Th"  },  {    "source": "Bouches-du-Rhône",    "target": "60Co"  },  {    "source": "Bouches-du-Rhône",    "target": "125I"  },  {    "source": "Bouches-du-Rhône",    "target": "227Ac"  },  {    "source": "Bouches-du-Rhône",    "target": "210Pb"  }     
+
+    ]
+
+
+}
