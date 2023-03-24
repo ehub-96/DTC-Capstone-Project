@@ -12,7 +12,7 @@
 - [Transformation](#transformation)
 - <a href="https://docs.google.com/document/d/1IQIYw_qAf6k3L5TfHRjHJ2gpLz7aqjbHPem2s41xLQw/edit?usp=sharing" target="_blank">Document</a>
 - <a href="https://public.tableau.com/app/profile/erik.hub5895/viz/DTCDEDashboard/Story1" target="_blank">Dashboard</a>
-
+- [Contact](#contact)
 
 
 
@@ -45,3 +45,15 @@ Tables need to be created manually. Data is manipulated with BigQuery, both clus
 ### Transformation
 
 Just simple SQL transformation, code used is both saved in Google BigQuery and the “BigQuery” folder, Jupiter was used for most of the data exploration, the notebook can be found in the “Data Exploration” folder, and the data used and transformed can be found in the “Data” folder.
+
+### Contact
+
+
+
+
+
+- <a href="https://t.me/Ehub96" target="_blank">Telegram</a>
+- <a href="https://www.linkedin.com/in/erik-hub-0346001b6/" target="_blank">Linkedin</a>
+- <a href="https://twitter.com/ehub96?t=hQ_1F1a5bBjxX6k1RJCqQg&s=08" target="_blank">Twitter</a>
+- <a href="https://t.me/Ehub96" target="_blank">Telegram</a>
+- <a href="mailto:ehub96.dev@gmail.com"Email</a>
