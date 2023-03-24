@@ -56,4 +56,4 @@ Just simple SQL transformation, code used is both saved in Google BigQuery and t
 - <a href="https://www.linkedin.com/in/erik-hub-0346001b6/" target="_blank">Linkedin</a>
 - <a href="https://twitter.com/ehub96?t=hQ_1F1a5bBjxX6k1RJCqQg&s=08" target="_blank">Twitter</a>
 - <a href="https://t.me/Ehub96" target="_blank">Telegram</a>
-- <a href="mailto:ehub96.dev@gmail.com"Email</a>
+- <a href="mailto:ehub96.dev@gmail.com" >Email</a>
