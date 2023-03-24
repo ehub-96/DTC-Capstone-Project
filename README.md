@@ -10,8 +10,9 @@
 - [Data Ingestion](#data-ingestion)
 - [Data Warehouse](#data-warehouse)
 - [Transformation](#transformation)
-- [Document](https://docs.google.com/document/d/1IQIYw_qAf6k3L5TfHRjHJ2gpLz7aqjbHPem2s41xLQw/edit?usp=sharing)
-- [Dashboard](https://public.tableau.com/app/profile/erik.hub5895/viz/DTCDEDashboard/Story1)
+- <a href="https://docs.google.com/document/d/1IQIYw_qAf6k3L5TfHRjHJ2gpLz7aqjbHPem2s41xLQw/edit?usp=sharing" target="_blank">Document</a>
+- <a href="https://public.tableau.com/app/profile/erik.hub5895/viz/DTCDEDashboard/Story1" target="_blank">Dashboard</a>
+
 
 
 
