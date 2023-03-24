@@ -1,223 +1,46 @@
-# Data Engineering Zoomcamp
+# Data Engineering Zoomcamp - Capstone Proyect - Erik Hub
 
 
-<p align="center">
-  <a href="https://airtable.com/shr6oVXeQvSI5HuWD"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
-</p>
 
-- Register in [DataTalks.Club's Slack](https://datatalks.club/slack.html)
-- Join the [`#course-data-engineering`](https://app.slack.com/client/T01ATQK62F8/C01FABYF2RG) channel
-- Join the [course Telegram channel with announcements](https://t.me/dezoomcamp)
-- The videos are published on [DataTalks.Club's YouTube channel](https://www.youtube.com/c/DataTalksClub) in [the course playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb)
-- [Frequently asked technical questions](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?usp=sharing)
+## Index
 
-Syllabus
+- [Problem Description](#problem-description)
+- [Analysis](#analysis)
+- [Cloud](#cloud)
+- [Data Ingestion](#data-ingestion)
+- [Data Warehouse](#data-warehouse)
+- [Transformation](#transformation)
+- [Document](https://docs.google.com/document/d/1IQIYw_qAf6k3L5TfHRjHJ2gpLz7aqjbHPem2s41xLQw/edit?usp=sharing)
+- [Dashboard](https://public.tableau.com/app/profile/erik.hub5895/viz/DTCDEDashboard/Story1)
 
-* [Week 1: Introduction & Prerequisites](#week-1-introduction--prerequisites)
-* [Week 2: Workflow Orchestration](#week-2-workflow-orchestration)
-* [Week 3: Data Warehouse](#week-3-data-warehouse)
-* [Week 4: Analytics Engineering](#week-4-analytics-engineering)
-* [Week 5: Batch processing](#week-5-batch-processing)
-* [Week 6: Streaming](#week-6-streaming)
-* [Week 7, 8 & 9: Project](#week-7-8--9-project)
 
-## Taking the course
 
-### 2023 Cohort
 
-* **Start**: 16 January 2023 (Monday) at 18:00 CET
-* **Registration link**: https://airtable.com/shr6oVXeQvSI5HuWD
-* Subscribe to our [public Google Calendar](https://calendar.google.com/calendar/?cid=ZXIxcjA1M3ZlYjJpcXU0dTFmaG02MzVxMG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) (it works from Desktop only)
-* [Cohort folder](cohorts/2023/) with homeworks and deadlines 
+### Problem Description
 
-### Self-paced mode
+This dataset contains information on the location, type, and description of various radioactive waste materials. However, there is a significant issue of uncertainty regarding the type and description of some entries in the dataset. This lack of information can impede the accurate assessment of potential health and environmental risks associated with these materials. Therefore, there is a need to address this uncertainty and ensure that the dataset provides complete and reliable information on radioactive waste materials. 
 
-All the materials of the course are freely available, so that you
-can take the course at your own pace
+### Analysis
 
-* Follow the suggested syllabus (see below) week by week
-* You don't need to fill in the registration form. Just start watching the videos and join Slack
-* Check [FAQ](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?usp=sharing) if you have problems
-* If you can't find a solution to your problem in FAQ, ask for help in Slack
+The analysis of the radioactive waste dataset revealed several key findings. First, we identified the most common isotopes present in the dataset, which included Cobalt, Caesium and Tritium . This information is crucial for assessing the proper storage and potential health/environmental risks associated with these materials.
+Additionally, the facilities with the highest volume of radioactive waste were identified.By understanding which facilities possess the most radioactive waste and its origin, we can develop targeted interventions to reduce the amount of waste produced and minimize potential risks or auditions to ensure the proper storage or disposal of such materials.
+Furthermore, we found that the Essonne department has the most residues in the dataset. This information is important for local authorities to take appropriate measures to ensure the safe handling and disposal of radioactive waste in the area.
+Finally, our analysis revealed a significant level of uncertainty in the dataset, particularly with regard to missing information on the type and description of some entries. To address this issue, we recommend implementing measures to improve the accuracy and completeness of the dataset. This may include conducting additional surveys, establishing standardized reporting requirements, and improving communication between facilities and regulatory agencies to ensure that all relevant information is captured or by simply updating the dataset when the next iteration of it is published. By addressing these uncertainties, we can ensure that the dataset provides reliable and comprehensive information on these waste materials.
 
 
+### Cloud
 
-### Asking for help in Slack
+Google cloud services are used, for access to the project please read the “Google Cloud Project” file in the “README” folder.
 
-The best way to get support is to use [DataTalks.Club's Slack](https://datatalks.club/slack.html). Join the [`#course-data-engineering`](https://app.slack.com/client/T01ATQK62F8/C01FABYF2RG) channel.
 
-To make discussions in Slack more organized:
+### Data Ingestion
 
-* Follow [these recommendations](asking-questions.md) when asking for help
-* Read the [DataTalks.Club community guidelines](https://datatalks.club/slack/guidelines.html)
+Batch/Workflow is used, several steps with Luigi for download, transformation and upload, the code used is in the “Pipeline” folder, Terraform is used to configure and upload to the Google Cloud Services.
 
+### Data Warehouse
 
-## Syllabus
+Tables need to be created manually. Data is manipulated with BigQuery, both clustered and partitioned for better understanding the “Counties” and “Isotopes” data; code used is both saved in Google BigQuery and the “BigQuery” folder.
 
-> **Note:** NYC TLC changed the format of the data we use to parquet. But you can still access
-> the csv files [here](https://github.com/DataTalksClub/nyc-tlc-data).
+### Transformation
 
-### [Week 1: Introduction & Prerequisites](week_1_basics_n_setup)
-
-* Course overview
-* Introduction to GCP
-* Docker and docker-compose
-* Running Postgres locally with Docker
-* Setting up infrastructure on GCP with Terraform
-* Preparing the environment for the course
-* Homework
-
-[More details](week_1_basics_n_setup)
-
-
-### [Week 2: Workflow Orchestration](week_2_workflow_orchestration/)
-
-* Data Lake
-* Workflow orchestration
-* Introduction to Prefect
-* ETL with GCP & Prefect
-* Parametrizing workflows
-* Prefect Cloud and additional resources
-* Homework
-
-[More details](week_2_workflow_orchestration/)
-
-
-### [Week 3: Data Warehouse](week_3_data_warehouse)
-
-
-* Data Warehouse
-* BigQuery
-* Partitioning and clustering
-* BigQuery best practices
-* Internals of BigQuery
-* Integrating BigQuery with Airflow
-* BigQuery Machine Learning
-
-[More details](week_3_data_warehouse)
-
-
-### [Week 4: Analytics engineering](week_4_analytics_engineering/)
-
-* Basics of analytics engineering
-* dbt (data build tool)
-* BigQuery and dbt
-* Postgres and dbt
-* dbt models
-* Testing and documenting
-* Deployment to the cloud and locally
-* Visualizing the data with google data studio and metabase
-
-
-[More details](week_4_analytics_engineering)
-
-
-### [Week 5: Batch processing](week_5_batch_processing)
-
-* Batch processing
-* What is Spark
-* Spark Dataframes
-* Spark SQL
-* Internals: GroupBy and joins
-
-[More details](week_5_batch_processing)
-
-### [Week 6: Streaming](week_6_stream_processing)
-
-* Introduction to Kafka
-* Schemas (avro)
-* Kafka Streams
-* Kafka Connect and KSQL
-
-[More details](week_6_stream_processing)
-
-
-### [Week 7, 8 & 9: Project](week_7_project)
-
-Putting everything we learned to practice
-
-* Week 7 and 8: working on your project
-* Week 9: reviewing your peers
-
-[More details](week_7_project)
-
-
-## Overview
-
-### Architecture diagram
-<img src="images/architecture/arch_2.png"/>
-
-### Technologies
-* *Google Cloud Platform (GCP)*: Cloud-based auto-scaling platform by Google
-  * *Google Cloud Storage (GCS)*: Data Lake
-  * *BigQuery*: Data Warehouse
-* *Terraform*: Infrastructure-as-Code (IaC)
-* *Docker*: Containerization
-* *SQL*: Data Analysis & Exploration
-* *Prefect*: Workflow Orchestration
-* *dbt*: Data Transformation
-* *Spark*: Distributed Processing
-* *Kafka*: Streaming
-
-
-### Prerequisites
-
-To get the most out of this course, you should feel comfortable with coding and command line
-and know the basics of SQL. Prior experience with Python will be helpful, but you can pick
-Python relatively fast if you have experience with other programming languages.
-
-Prior experience with data engineering is not required.
-
-
-
-## Instructors
-
-- Ankush Khanna (https://linkedin.com/in/ankushkhanna2)
-- Sejal Vaidya (https://linkedin.com/in/vaidyasejal)
-- Victoria Perez Mola (https://www.linkedin.com/in/victoriaperezmola/)
-- Kalise Richmond (https://www.linkedin.com/in/kaliserichmond/)
-- Jeff Hale (https://www.linkedin.com/in/-jeffhale/)
-- Alexey Grigorev (https://linkedin.com/in/agrigorev)
-
-## Tools
-
-For this course, you'll need to have the following software installed on your computer:
-
-* Docker and Docker-Compose
-* Python 3 (e.g. via [Anaconda](https://www.anaconda.com/products/individual))
-* Google Cloud SDK
-* Terraform
-
-See [Week 1](week_1_basics_n_setup) for more details about installing these tools
-
-
-
-## FAQ
-
-
-* **Q**: I registered, but haven't received a confirmation email. Is it normal?
-  **A**: Yes, it's normal. It's not automated. But you will receive an email eventually.
-* **Q**: At what time of the day will it happen?
-  **A**: Office hours will happen on Mondays at 17:00 CET. But everything will be recorded, so you can watch it whenever it's convenient for you.
-* **Q**: Will there be a certificate?
-  **A**: Yes, if you complete the project.
-* **Q**: I'm 100% not sure I'll be able to attend. Can I still sign up?
-  **A**: Yes, please do! You'll receive all the updates and then you can watch the course at your own pace.
-* **Q**: Do you plan to run a ML engineering course as well?
-**A**: Glad you asked. [We do](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) :)
-* **Q**: I'm stuck! I've got a technical question!
-  **A**: Ask on Slack! And check out the [student FAQ](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?usp=sharing); many common issues have been answered already. If your issue is solved, please add how you solved it to the document. Thanks!
-
-
-
-## Supporters and partners
-
-Thanks to the course sponsors for making it possible to create this course
-
-<p align="center">
-  <a href="https://www.prefect.io/">
-    <img height="100" src="https://github.com/DataTalksClub/mlops-zoomcamp/raw/main/images/prefect.png">
-  </a>
-</p>
-
-Do you want to support our course and our community? Please reach out to [alexey@datatalks.club](alexey@datatalks.club)
+Just simple SQL transformation, code used is both saved in Google BigQuery and the “BigQuery” folder, Jupiter was used for most of the data exploration, the notebook can be found in the “Data Exploration” folder, and the data used and transformed can be found in the “Data” folder.
